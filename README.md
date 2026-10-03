@@ -53,7 +53,7 @@ Os arquivos brutos utilizados no pipeline e os scripts de modelagem do banco de 
 
 ## Pipeline no Pentaho
 
-![Transformação Pentaho](pentaho_transformacao.png.png)
+O arquivo `transformação tik_tokshop_limpa.ktr` realiza o tratamento, limpeza e enriquecimento dos dados brutos do TikTok Shop antes de enviá-los para o nosso Data Warehouse. Abaixo está a explicação do que foi feito em cada componente:
 
 A transformação tem três blocos, que devem rodar em sequência (PUBLIC, depois ODS, depois TRATAMENTO), porque cada um lê a tabela gravada pelo anterior:
 
