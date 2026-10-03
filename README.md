@@ -66,6 +66,8 @@ A transformação tem três blocos, que devem rodar em sequência (PUBLIC, depoi
 Todos os Table output usam **Truncate table**, para que rodar a transformação mais de uma vez não duplique linhas.
 
 ![Transformação Pentaho](imagens_pentaho/pentaho_transformacao.png.png)
+
+
 ## Data Warehouse
 
 Modelo estrela no schema `dw`, criado pelo script [`sql/tiktok_dataset.sql`](sql/tiktok_dataset.sql):
@@ -102,16 +104,12 @@ O dashboard **TIK TOK ANALYTICS** tem capa e quatro páginas de análise.
 ![Capa de Pedidos](imagens%20tik%20tok/dashboard_0_Capa_pedidos.png.png)
 
 ![Visão Geral](imagens%20tik%20tok/dashboard_01_visao_geral.png.png)
+
 ![Conteúdo de Engajamento](imagens%20tik%20tok/dashboard_02_conteudo_engajamento.png.png)
 
 ![Pagamentos e Pedidos](imagens%20tik%20tok/dashboard_03_pagamentos_pedidos.png.png)
 
 ![Relatório Geral](imagens%20tik%20tok/dashboard_04_relatorio_geral.png.png)
-
-## Pipeline no Pentaho
-
-![Transformação Pentaho](./pentaho_transformacao.png.png)
-
 
 ### Alguns números do dashboard
 
@@ -154,7 +152,7 @@ O dashboard tem um atalho para um plano de marketing criado no Canva, que liga a
 
 O detalhamento completo das regras de negócio, dicionário de dados e mapeamento ETL/OLAP está disponível no documento oficial:
 
-*- 📕 [Ler Documentação Completa do Projeto (PDF)](docs/documentacao_projeto_tiktok_shop%20%282%29.pdf)
+ [📕 Ler Documentação Completa do Projeto (PDF)](docs/documentacao_projeto_tiktok_shop.pdf)
 
 ## Autor
 
