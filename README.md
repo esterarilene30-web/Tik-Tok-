@@ -107,7 +107,10 @@ O dashboard **TIK TOK ANALYTICS** tem capa e quatro páginas de análise.
 
 ![Relatório Geral](imagens%20tik%20tok/dashboard_04_relatorio_geral.png.png)
 
-![Transformação Pentaho](pentaho_transformacao.png.png)
+## Pipeline no Pentaho
+
+![Transformação Pentaho](imagens/pentaho_transformacao.png.png)
+
 
 ### Alguns números do dashboard
 
