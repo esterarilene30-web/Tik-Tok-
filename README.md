@@ -37,6 +37,14 @@ Power BI (dashboard TIK TOK ANALYTICS)
 | Modelagem | Modelo dimensional em estrela (SQL) |
 | Visualização | Power BI (DirectQuery) |
 
+## Fontes de Dados e Armazenamento
+
+Os arquivos brutos utilizados no pipeline e os scripts de modelagem do banco de dados podem ser acessados diretamente nos links abaixo:
+
+* [📂 Acessar Pasta Geral de Dados (Contém CSV e XML)](dados/)
+* [💾 Script SQL do Data Warehouse (tiktok_dataset.sql)](tiktok_dataset.sql)
+* [⚙️ Arquivo de Transformação do Pentaho (.ktr)](transforma%C3%A7%C3%A3o%20tik_tokshop_limpa.ktr.txt)
+
 ## Dados de origem
 
 - **Vídeos (CSV):** 500 vídeos, com autor, categoria, descrição, país, data de publicação, duração, views, likes, comentários, compartilhamentos, salvamentos, seguidores, hashtags, taxa de engajamento, classificação de desempenho e perfil do público.
@@ -45,7 +53,7 @@ Power BI (dashboard TIK TOK ANALYTICS)
 
 ## Pipeline no Pentaho
 
-![Transformação no Pentaho](imagens/pentaho_transformacao.png)
+![Transformação Pentaho](pentaho_transformacao.png.png)
 
 A transformação tem três blocos, que devem rodar em sequência (PUBLIC, depois ODS, depois TRATAMENTO), porque cada um lê a tabela gravada pelo anterior:
 
@@ -90,13 +98,16 @@ O dashboard **TIK TOK ANALYTICS** tem capa e quatro páginas de análise.
 | 03 Pagamentos & Pedidos | Valor e quantidade de pedidos por mês e distribuição por status |
 | 04 Relatório Geral | Visão consolidada com hashtags, categorias de produto e atalhos para Canva e Google Docs |
 
-!![Capa de Pedidos](imagens/imagens%20tik%20tok/dashboard_00_Capa_pedidos.png.png)
+![Capa de Pedidos](imagens/imagens%20tik%20tok/dashboard_00_Capa_pedidos.png.png)
 
-![Visão Geral](imagens/dashboard_01_visao_geral.png)
-![Conteúdo e Engajamento](imagens/dashboard_02_conteudo_engajamento.png)
-![Pagamentos e Pedidos](imagens/dashboard_03_pagamentos_pedidos.png)
-![Relatório Geral](imagens/dashboard_04_relatorio_geral.png)
+![Visão Geral](imagens%20tik%20tok/dashboard_01_visao_geral.png.png)
+![Conteúdo de Engajamento](imagens%20tik%20tok/dashboard_02_conteudo_engajamento.png.png)
 
+![Pagamentos e Pedidos](imagens%20tik%20tok/dashboard_03_pagamentos_pedidos.png.png)
+
+![Relatório Geral](imagens%20tik%20tok/dashboard_04_relatorio_geral.png.png)
+
+![Transformação Pentaho](pentaho_transformacao.png.png)
 ### Alguns números do dashboard
 
 - 1.524 pedidos e R$ 199 mil em vendas de janeiro a julho de 2026.
@@ -134,6 +145,11 @@ O dashboard tem um atalho para um plano de marketing criado no Canva, que liga a
 ├── dados/       CSV e XML de exemplo (dados fictícios)
 └── imagens/     capturas do Pentaho, do banco e do dashboard
 ```
+## Documentação do Projeto
+
+O detalhamento completo das regras de negócio, dicionário de dados e mapeamento ETL/OLAP está disponível no documento oficial:
+
+* [📕 Ler Documentação Completa do Projeto (PDF)](docs/documentacao_projeto_tiktok_shop%20(2).pdf)
 
 ## Autor
 
