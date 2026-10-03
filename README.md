@@ -65,6 +65,7 @@ A transformação tem três blocos, que devem rodar em sequência (PUBLIC, depoi
 
 Todos os Table output usam **Truncate table**, para que rodar a transformação mais de uma vez não duplique linhas.
 
+![Transformação Pentaho](imagens_pentaho/pentaho_transformacao.png.png)
 ## Data Warehouse
 
 Modelo estrela no schema `dw`, criado pelo script [`sql/tiktok_dataset.sql`](sql/tiktok_dataset.sql):
@@ -109,7 +110,7 @@ O dashboard **TIK TOK ANALYTICS** tem capa e quatro páginas de análise.
 
 ## Pipeline no Pentaho
 
-![Transformação Pentaho](imagens/pentaho_transformacao.png.png)
+![Transformação Pentaho](./pentaho_transformacao.png.png)
 
 
 ### Alguns números do dashboard
