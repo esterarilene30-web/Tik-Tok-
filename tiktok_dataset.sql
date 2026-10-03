@@ -1,3 +1,6 @@
+git add README.md
+git commit -m "Fix: integrando todos os links de imagens, dados e documentacao"
+git push origin main
 
 DROP TABLE IF EXISTS dw.fact_pedidos CASCADE;
 DROP TABLE IF EXISTS dw.dim_video CASCADE;
