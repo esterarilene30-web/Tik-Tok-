@@ -98,7 +98,7 @@ O dashboard **TIK TOK ANALYTICS** tem capa e quatro páginas de análise.
 | 03 Pagamentos & Pedidos | Valor e quantidade de pedidos por mês e distribuição por status |
 | 04 Relatório Geral | Visão consolidada com hashtags, categorias de produto e atalhos para Canva e Google Docs |
 
-![Capa de Pedidos](imagens/imagens%20tik%20tok/dashboard_00_Capa_pedidos.png.png)
+![Capa de Pedidos](imagens%20tik%20tok/dashboard_0_Capa_pedidos.PNG)
 
 ![Visão Geral](imagens%20tik%20tok/dashboard_01_visao_geral.png.png)
 ![Conteúdo de Engajamento](imagens%20tik%20tok/dashboard_02_conteudo_engajamento.png.png)
@@ -107,7 +107,7 @@ O dashboard **TIK TOK ANALYTICS** tem capa e quatro páginas de análise.
 
 ![Relatório Geral](imagens%20tik%20tok/dashboard_04_relatorio_geral.png.png)
 
-![Transformação Pentaho](pentaho_transformacao.png.png)
+![Transformação Pentaho](pentaho_transformacao.PNG)
 ### Alguns números do dashboard
 
 - 1.524 pedidos e R$ 199 mil em vendas de janeiro a julho de 2026.
@@ -149,7 +149,7 @@ O dashboard tem um atalho para um plano de marketing criado no Canva, que liga a
 
 O detalhamento completo das regras de negócio, dicionário de dados e mapeamento ETL/OLAP está disponível no documento oficial:
 
-* [📕 Ler Documentação Completa do Projeto (PDF)](docs/documentacao_projeto_tiktok_shop%20(2).pdf)
+*- 📕 [Ler Documentação Completa do Projeto (PDF)](docs/documentacao_projeto_tiktok_shop%20%282%29.pdf)
 
 ## Autor
 
