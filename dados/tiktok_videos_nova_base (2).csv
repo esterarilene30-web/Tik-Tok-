@@ -1,0 +1,501 @@
+id_video,id_autor,autor,categoria,descricao,pais,data_publicacao,duracao_segundos,views,likes,comentarios,compartilhamentos,salvamentos,seguidores_autor,hashtags,taxa_engajamento,classificacao_desempenho,genero_publico,idade_publico
+TT00001,AU0044,emmaclair,Comédia,Receita fácil e rápida,Canadá,2025-04-15,18,85872412,2865530,284774,2250949,373451,4009315,#tiktok #trend,6.72,Alto,Feminino,23
+TT00002,AU0027,charlidamelio,Gastronomia,Receita fácil e rápida,Reino Unido,2026-07-13,11,29395092,1569375,204422,631072,534534,21439110,#beleza #dicas,10.0,Alto,Feminino,46
+TT00003,AU0007,bellapoarch,Fitness,Receita fácil e rápida,Reino Unido,2026-01-25,21,45717651,2781862,424268,380401,157865,61672963,#tecnologia #tech,8.19,Alto,Feminino,22
+TT00004,AU0037,charlidamelio,Comédia,Desafio que viralizou no TikTok,Coreia do Sul,2026-01-06,68,16803883,2950158,115080,233072,351297,38850994,#tiktok #trend,21.72,Medio,Feminino,16
+TT00005,AU0011,bellapoarch,Fitness,Bastidores de um vídeo,Coreia do Sul,2026-01-09,78,114848801,6134131,424561,509245,1867031,9593482,#lifestyle #rotina,7.78,Alto,Feminino,21
+TT00006,AU0015,bellapoarch,Entretenimento,Bastidores de um vídeo,Brasil,2026-07-25,90,85275343,3687124,202881,2199277,861871,53853426,#brasil #fyp,8.15,Alto,Feminino,28
+TT00007,AU0026,willsmith,Dança,Tutorial em poucos segundos,Estados Unidos,2026-05-27,73,8933684,445006,94502,295338,76403,75355555,#tecnologia #tech,10.2,Medio,Masculino,25
+TT00008,AU0033,willsmith,Comédia,Desafio que viralizou no TikTok,Brasil,2025-05-22,49,35314581,4882497,254640,549733,342124,21482420,#beleza #dicas,17.07,Alto,Masculino,28
+TT00009,AU0001,mrbeast,Tecnologia,Tutorial em poucos segundos,Coreia do Sul,2026-07-21,97,80098665,2041079,957611,1119383,1097251,14982279,#brasil #fyp,6.51,Alto,Feminino,49
+TT00010,AU0049,khaby.lame,Tecnologia,Novo trend do TikTok,Coreia do Sul,2026-05-28,86,58403204,2400139,514185,64847,1067162,68147358,#lifestyle #rotina,6.93,Alto,Masculino,34
+TT00011,AU0001,fitnessbrasil,Fitness,Dica de beleza e estilo,Brasil,2026-06-28,38,26747396,1075739,179284,720183,526576,48728453,#brasil #fyp,9.35,Alto,Feminino,37
+TT00012,AU0005,emmaclair,Dança,Dica rápida para os seguidores,Coreia do Sul,2026-05-13,131,32188745,790480,366627,993097,98358,73803389,#fy #paravoce,6.99,Alto,Feminino,28
+TT00013,AU0046,addisonre,Beleza,Vídeo de humor,Canadá,2025-07-25,142,35625298,3636137,412903,770368,829852,60607444,#tiktok #trend,15.86,Alto,Feminino,26
+TT00014,AU0001,mrbeast,Entretenimento,Bastidores de um vídeo,Brasil,2025-08-14,18,33323328,1735314,242112,416371,217359,44359361,#tiktok #trend,7.84,Alto,Masculino,32
+TT00015,AU0037,willsmith,Desafio,Dica de beleza e estilo,Canadá,2026-08-08,58,69058866,3747877,204671,1639819,288354,12670194,#tiktok #trend,8.52,Alto,Masculino,20
+TT00016,AU0004,spencerx,Fitness,Novo trend do TikTok,Estados Unidos,2025-04-11,59,88497167,7621680,519547,1363004,1637004,25539407,#tecnologia #tech,12.59,Alto,Masculino,50
+TT00017,AU0029,emmaclair,Comédia,Desafio que viralizou no TikTok,Coreia do Sul,2025-03-19,148,60261891,2297790,350737,436211,1325018,1990765,#tiktok #trend,7.32,Alto,Feminino,38
+TT00018,AU0004,khaby.lame,Beleza,Desafio que viralizou no TikTok,Canadá,2026-02-15,77,101191849,15688257,615739,673389,620299,61080189,#brasil #fyp,17.39,Alto,Feminino,21
+TT00019,AU0010,charlidamelio,Educação,Bastidores de um vídeo,Brasil,2026-05-14,158,56825103,7383717,540330,1468200,959486,72782208,#fyp #viral,18.22,Alto,Masculino,39
+TT00020,AU0011,zachking,Tecnologia,Novo trend do TikTok,Estados Unidos,2026-06-28,27,100441580,6703952,600948,271678,2316714,79874260,#tiktok #trend,9.85,Alto,Masculino,22
+TT00021,AU0039,zachking,Lifestyle,Novo trend do TikTok,Canadá,2026-08-16,178,90675494,14254202,1027204,1335502,1330409,78349168,#lifestyle #rotina,19.79,Alto,Feminino,37
+TT00022,AU0026,khaby.lame,Educação,Dica de beleza e estilo,Reino Unido,2025-09-29,28,70216708,4718634,575906,692760,599679,1260299,#receita #foodtok,9.38,Alto,Masculino,26
+TT00023,AU0009,bellapoarch,Comédia,Bastidores de um vídeo,Reino Unido,2025-09-29,82,83420583,14994431,111991,2908648,510175,21182421,#receita #foodtok,22.21,Alto,Masculino,30
+TT00024,AU0001,emmaclair,Educação,Novo trend do TikTok,Estados Unidos,2026-06-26,77,111953353,11713787,1322651,1263458,2280534,15502573,#tiktok #trend,14.81,Alto,Feminino,32
+TT00025,AU0044,addisonre,Tecnologia,Dica de beleza e estilo,Reino Unido,2025-07-28,23,99695480,10595825,743283,1022859,1816720,12398090,#beleza #dicas,14.22,Alto,Masculino,26
+TT00026,AU0011,willsmith,Tecnologia,Participando de uma trend,França,2025-09-26,12,111363216,6754428,1043236,124788,1814187,15025458,#tiktok #trend,8.74,Alto,Masculino,26
+TT00027,AU0010,spencerx,Dança,Desafio que viralizou no TikTok,Reino Unido,2026-07-20,103,118578533,15298793,108419,719516,1169324,5364599,#fitness #treino,14.59,Alto,Feminino,34
+TT00028,AU0040,khaby.lame,Desafio,Dica rápida para os seguidores,Estados Unidos,2026-02-21,115,28245995,3602522,129008,668744,407793,3336769,#fy #paravoce,17.02,Alto,Masculino,39
+TT00029,AU0018,khaby.lame,Comédia,Participando de uma trend,Brasil,2025-09-12,130,98910009,16571422,517764,2730029,1689162,29864548,#desafio #viral,21.75,Alto,Masculino,50
+TT00030,AU0002,charlidamelio,Beleza,Vídeo de humor,Reino Unido,2025-08-17,27,109650398,18261677,1089504,1413216,2402632,37473522,#fitness #treino,21.13,Alto,Feminino,19
+TT00031,AU0008,addisonre,Dança,Receita fácil e rápida,Reino Unido,2025-01-29,19,86148221,8533148,878893,2076483,770819,14559543,#lifestyle #rotina,14.23,Alto,Feminino,19
+TT00032,AU0025,fitnessbrasil,Desafio,Tutorial em poucos segundos,Brasil,2025-04-29,121,58376160,4205323,322150,1619270,1437317,236999,#tecnologia #tech,12.99,Alto,Masculino,14
+TT00033,AU0028,mrbeast,Fitness,Receita fácil e rápida,Reino Unido,2026-01-08,179,108298056,11246166,978194,2757335,1851364,16736926,#brasil #fyp,15.54,Alto,Feminino,52
+TT00034,AU0013,spencerx,Beleza,Dica rápida para os seguidores,França,2025-05-11,155,68114830,4497756,349265,1013913,551438,40402808,#beleza #dicas,9.41,Alto,Feminino,22
+TT00035,AU0030,willsmith,Gastronomia,Bastidores de um vídeo,França,2025-11-26,131,73592887,11227673,214677,833936,1461423,22785593,#tiktok #trend,18.67,Alto,Feminino,21
+TT00036,AU0044,addisonre,Desafio,Bastidores de um vídeo,Estados Unidos,2025-08-29,16,38139166,3815807,166083,858893,787274,6212700,#desafio #viral,14.76,Alto,Masculino,21
+TT00037,AU0013,spencerx,Gastronomia,Participando de uma trend,Estados Unidos,2026-08-13,47,63821720,7394397,366163,1731396,1421136,754212,#tiktok #trend,17.1,Alto,Masculino,41
+TT00038,AU0036,charlidamelio,Comédia,Dica de beleza e estilo,Estados Unidos,2025-02-21,128,104527818,8900451,1203806,729619,1403911,71297314,#tecnologia #tech,11.71,Alto,Masculino,19
+TT00039,AU0028,emmaclair,Gastronomia,Dica rápida para os seguidores,Coreia do Sul,2026-06-01,131,79970257,5386329,447001,2133486,1644200,60417340,#brasil #fyp,12.02,Alto,Feminino,35
+TT00040,AU0018,willsmith,Comédia,Tutorial em poucos segundos,Estados Unidos,2025-09-02,79,100951772,5632559,939543,2289635,1363979,45086693,#fitness #treino,10.13,Alto,Feminino,29
+TT00041,AU0005,spencerx,Beleza,Vídeo de humor,França,2025-08-08,129,119910032,12485646,378856,684052,2116987,55814273,#fyp #viral,13.06,Alto,Feminino,17
+TT00042,AU0049,fitnessbrasil,Beleza,Dica de beleza e estilo,Brasil,2025-01-21,100,27810841,4239124,260105,396087,659269,40089111,#beleza #dicas,19.97,Alto,Feminino,27
+TT00043,AU0032,charlidamelio,Educação,Participando de uma trend,Canadá,2025-08-14,17,114597844,18578700,766606,3370869,2135097,52201530,#fitness #treino,21.69,Alto,Masculino,34
+TT00044,AU0040,emmaclair,Entretenimento,Participando de uma trend,França,2025-05-11,154,89824697,11412983,215400,1324623,1097420,3647575,#tiktok #trend,15.64,Alto,Masculino,42
+TT00045,AU0014,willsmith,Fitness,Vídeo de humor,Canadá,2025-12-02,81,86318397,7399308,223554,2630375,625269,56591473,#brasil #fyp,12.6,Alto,Masculino,43
+TT00046,AU0015,mrbeast,Entretenimento,Desafio que viralizou no TikTok,Estados Unidos,2025-12-25,61,112109846,3196759,751508,185993,2802498,2745359,#lifestyle #rotina,6.19,Alto,Feminino,18
+TT00047,AU0045,addisonre,Fitness,Dica rápida para os seguidores,França,2026-04-22,165,20502412,1114509,37221,350613,486853,15382341,#fy #paravoce,9.7,Alto,Masculino,28
+TT00048,AU0026,charlidamelio,Comédia,Receita fácil e rápida,Coreia do Sul,2026-01-20,170,41796937,1372456,170845,78288,721261,32604692,#tiktok #trend,5.61,Alto,Feminino,19
+TT00049,AU0003,bellapoarch,Tecnologia,Participando de uma trend,Coreia do Sul,2026-08-03,104,93625660,13337850,693273,2800340,365638,9265216,#tecnologia #tech,18.37,Alto,Feminino,36
+TT00050,AU0041,willsmith,Dança,Participando de uma trend,Estados Unidos,2026-01-06,143,86961784,6200648,865861,2598902,307230,36259845,#lifestyle #rotina,11.47,Alto,Feminino,13
+TT00051,AU0021,charlidamelio,Comédia,Tutorial em poucos segundos,Canadá,2025-10-02,72,108524662,18095067,634440,2966826,2259226,62382114,#lifestyle #rotina,22.07,Alto,Masculino,26
+TT00052,AU0014,bellapoarch,Educação,Vídeo de humor,Reino Unido,2026-05-15,162,81967334,10266498,506929,1019467,721340,37090140,#tecnologia #tech,15.27,Alto,Masculino,37
+TT00053,AU0049,charlidamelio,Gastronomia,Dica de beleza e estilo,Canadá,2026-07-23,14,1412459,141589,4626,10587,15189,12499409,#brasil #fyp,12.18,Baixo,Masculino,66
+TT00054,AU0034,bellapoarch,Beleza,Treino rápido para iniciantes,Reino Unido,2026-07-21,100,29792165,2434800,242375,276244,293646,60910658,#brasil #fyp,10.9,Alto,Feminino,16
+TT00055,AU0049,khaby.lame,Desafio,Bastidores de um vídeo,Coreia do Sul,2026-07-03,133,41204241,2327281,111857,210236,159432,37121151,#lifestyle #rotina,6.82,Alto,Masculino,21
+TT00056,AU0024,khaby.lame,Educação,Desafio que viralizou no TikTok,Coreia do Sul,2025-08-21,146,102083376,10368106,169055,1084325,577671,16999677,#brasil #fyp,11.95,Alto,Feminino,23
+TT00057,AU0007,zachking,Lifestyle,Tutorial em poucos segundos,Canadá,2026-05-18,132,6159013,1082499,52476,122035,24825,59128721,#fitness #treino,20.81,Medio,Feminino,24
+TT00058,AU0026,willsmith,Comédia,Receita fácil e rápida,Coreia do Sul,2025-03-08,23,24794872,4321922,258110,237640,92685,20374454,#fy #paravoce,19.8,Alto,Masculino,28
+TT00059,AU0039,fitnessbrasil,Lifestyle,Bastidores de um vídeo,França,2026-03-03,107,108919646,11749002,1299417,1234103,418560,60477027,#receita #foodtok,13.5,Alto,Masculino,27
+TT00060,AU0049,charlidamelio,Desafio,Tutorial em poucos segundos,Coreia do Sul,2025-04-12,30,39960061,6270832,160314,1385058,635551,21089846,#desafio #viral,21.15,Alto,Masculino,43
+TT00061,AU0019,zachking,Desafio,Tutorial em poucos segundos,Coreia do Sul,2026-04-27,82,23378859,2479999,121522,147803,410179,60949053,#tiktok #trend,13.51,Alto,Feminino,26
+TT00062,AU0028,mrbeast,Tecnologia,Bastidores de um vídeo,Coreia do Sul,2025-07-22,48,92309242,4939922,886108,922617,1398941,35662586,#fy #paravoce,8.83,Alto,Masculino,30
+TT00063,AU0029,mrbeast,Gastronomia,Tutorial em poucos segundos,Coreia do Sul,2025-10-23,113,9634466,239322,70745,269277,200221,36550265,#tecnologia #tech,8.09,Medio,Masculino,28
+TT00064,AU0039,addisonre,Entretenimento,Novo trend do TikTok,Estados Unidos,2025-11-27,157,72525098,6996946,69507,270882,824515,78812305,#fyp #viral,11.25,Alto,Masculino,40
+TT00065,AU0034,willsmith,Educação,Dica rápida para os seguidores,França,2026-04-27,121,102694400,12931942,98860,1043721,1966644,66008319,#tiktok #trend,15.62,Alto,Masculino,38
+TT00066,AU0027,willsmith,Educação,Participando de uma trend,França,2025-12-04,19,63133727,4571738,518109,778595,1362779,61055700,#tiktok #trend,11.45,Alto,Masculino,48
+TT00067,AU0043,emmaclair,Gastronomia,Participando de uma trend,Brasil,2025-01-02,58,42263778,2394065,396616,208839,919569,69593757,#fitness #treino,9.27,Alto,Feminino,35
+TT00068,AU0009,addisonre,Gastronomia,Dica de beleza e estilo,Brasil,2026-07-17,17,83618503,11690963,772625,1861673,492128,32127961,#fy #paravoce,17.72,Alto,Masculino,52
+TT00069,AU0030,mrbeast,Dança,Dica de beleza e estilo,Coreia do Sul,2025-04-27,84,41758177,4421708,65639,825832,1036194,68309645,#brasil #fyp,15.21,Alto,Feminino,30
+TT00070,AU0013,fitnessbrasil,Tecnologia,Dica rápida para os seguidores,Brasil,2026-01-28,80,55816169,8524772,184355,1916075,794284,55702629,#fitness #treino,20.46,Alto,Masculino,50
+TT00071,AU0043,willsmith,Dança,Dica de beleza e estilo,França,2026-08-17,133,105775640,10448170,396938,3056776,863694,46331751,#fitness #treino,13.96,Alto,Masculino,19
+TT00072,AU0037,spencerx,Desafio,Participando de uma trend,Brasil,2025-09-02,91,74127101,10442580,832284,1024817,1621192,63491797,#beleza #dicas,18.78,Alto,Feminino,20
+TT00073,AU0009,emmaclair,Lifestyle,Vídeo de humor,Brasil,2025-02-07,122,51868612,9237193,414856,1449280,241216,13393077,#tecnologia #tech,21.87,Alto,Feminino,34
+TT00074,AU0031,addisonre,Fitness,Receita fácil e rápida,Coreia do Sul,2025-03-18,111,61377848,1076098,645432,362208,1490190,10789739,#fitness #treino,5.82,Alto,Masculino,30
+TT00075,AU0035,zachking,Lifestyle,Novo trend do TikTok,Estados Unidos,2026-05-15,171,114449317,14451399,1313031,2190921,1836131,38581356,#desafio #viral,17.29,Alto,Masculino,23
+TT00076,AU0029,khaby.lame,Educação,Desafio que viralizou no TikTok,Brasil,2025-04-13,93,100279285,2999613,927006,3435917,1794335,7542195,#brasil #fyp,9.13,Alto,Feminino,28
+TT00077,AU0011,khaby.lame,Comédia,Receita fácil e rápida,Canadá,2025-07-04,168,48162135,3701201,318275,286534,702313,32333627,#receita #foodtok,10.4,Alto,Feminino,24
+TT00078,AU0030,addisonre,Tecnologia,Dica rápida para os seguidores,Brasil,2025-01-10,123,78320025,3024282,267912,1306307,558252,46391032,#lifestyle #rotina,6.58,Alto,Masculino,23
+TT00079,AU0025,willsmith,Comédia,Bastidores de um vídeo,Canadá,2025-07-23,156,40201803,4841297,135726,620173,855787,48188682,#lifestyle #rotina,16.05,Alto,Feminino,26
+TT00080,AU0001,fitnessbrasil,Entretenimento,Receita fácil e rápida,Coreia do Sul,2025-10-09,137,39761319,7109092,467050,438879,667891,38422328,#desafio #viral,21.84,Alto,Masculino,19
+TT00081,AU0041,mrbeast,Entretenimento,Tutorial em poucos segundos,Canadá,2025-05-21,18,81528884,12010735,219028,688605,571928,77799079,#fitness #treino,16.55,Alto,Feminino,32
+TT00082,AU0009,emmaclair,Fitness,Treino rápido para iniciantes,França,2025-07-25,79,98345664,3607608,418684,3139916,1079055,22094778,#brasil #fyp,8.38,Alto,Masculino,24
+TT00083,AU0030,mrbeast,Dança,Bastidores de um vídeo,Coreia do Sul,2025-04-28,111,110737992,18913051,431227,3753027,2424002,74811233,#fitness #treino,23.05,Alto,Feminino,20
+TT00084,AU0038,spencerx,Fitness,Novo trend do TikTok,Coreia do Sul,2025-09-26,69,12170246,1770314,81182,17929,145006,63290554,#fyp #viral,16.55,Medio,Feminino,25
+TT00085,AU0041,willsmith,Educação,Participando de uma trend,Brasil,2025-03-06,45,83204172,13387447,917362,1671393,525252,6096345,#fyp #viral,19.83,Alto,Feminino,58
+TT00086,AU0030,bellapoarch,Tecnologia,Participando de uma trend,França,2026-02-02,49,40901122,7334717,130891,202382,568571,55694858,#tiktok #trend,20.14,Alto,Masculino,51
+TT00087,AU0014,willsmith,Gastronomia,Bastidores de um vídeo,Reino Unido,2026-01-15,35,111946391,10718000,1280946,1665307,199845,49312863,#tecnologia #tech,12.38,Alto,Masculino,24
+TT00088,AU0006,charlidamelio,Lifestyle,Desafio que viralizou no TikTok,Brasil,2026-04-11,95,86597189,6423881,232322,1258841,340485,32701263,#fy #paravoce,9.53,Alto,Feminino,20
+TT00089,AU0015,bellapoarch,Dança,Receita fácil e rápida,Brasil,2025-08-10,80,105676412,11429471,982717,352192,631075,19429691,#fy #paravoce,12.68,Alto,Feminino,30
+TT00090,AU0023,charlidamelio,Lifestyle,Vídeo de humor,Brasil,2025-01-16,54,72556491,4089134,587864,503027,117448,35627024,#fyp #viral,7.3,Alto,Feminino,27
+TT00091,AU0033,fitnessbrasil,Comédia,Dica de beleza e estilo,França,2026-01-06,66,17063243,2344207,154851,322271,212094,5830356,#tecnologia #tech,17.78,Medio,Feminino,42
+TT00092,AU0028,mrbeast,Gastronomia,Dica de beleza e estilo,Brasil,2026-02-16,30,40534137,3671461,48620,1369117,506496,43243116,#lifestyle #rotina,13.8,Alto,Masculino,53
+TT00093,AU0025,fitnessbrasil,Tecnologia,Tutorial em poucos segundos,Canadá,2025-11-29,139,19959029,515692,155288,206586,282630,57750376,#tiktok #trend,5.81,Medio,Masculino,53
+TT00094,AU0028,willsmith,Desafio,Participando de uma trend,Reino Unido,2025-08-09,126,106497555,13929199,850440,3194389,2071921,53526659,#beleza #dicas,18.82,Alto,Feminino,17
+TT00095,AU0044,willsmith,Comédia,Novo trend do TikTok,Brasil,2025-06-06,33,97976933,3006830,798388,1519619,978125,57975485,#tiktok #trend,6.43,Alto,Feminino,27
+TT00096,AU0036,bellapoarch,Comédia,Participando de uma trend,Reino Unido,2026-07-30,180,99987039,13688359,689736,2859644,1507320,56775623,#fyp #viral,18.75,Alto,Masculino,37
+TT00097,AU0015,mrbeast,Fitness,Treino rápido para iniciantes,Reino Unido,2026-05-09,39,38654965,4409281,276230,500812,236016,37398792,#lifestyle #rotina,14.03,Alto,Feminino,26
+TT00098,AU0002,fitnessbrasil,Educação,Desafio que viralizou no TikTok,Estados Unidos,2026-07-25,79,30404559,4505698,355954,904087,627618,41481222,#fitness #treino,21.03,Alto,Masculino,33
+TT00099,AU0048,zachking,Comédia,Treino rápido para iniciantes,Estados Unidos,2025-05-26,106,47163566,754968,330743,1442041,500821,56358963,#receita #foodtok,6.42,Alto,Masculino,26
+TT00100,AU0004,khaby.lame,Dança,Receita fácil e rápida,Brasil,2025-03-28,30,45804284,1876717,193770,531131,1080696,36531025,#receita #foodtok,8.04,Alto,Masculino,14
+TT00101,AU0008,bellapoarch,Beleza,Novo trend do TikTok,Reino Unido,2026-06-09,161,88893907,7552643,467858,1923716,548800,65324742,#tecnologia #tech,11.8,Alto,Feminino,33
+TT00102,AU0020,charlidamelio,Dança,Tutorial em poucos segundos,Reino Unido,2025-07-29,93,89591016,5903080,1059066,761311,207382,16114026,#fyp #viral,8.85,Alto,Feminino,13
+TT00103,AU0036,bellapoarch,Comédia,Participando de uma trend,Coreia do Sul,2026-05-28,20,66807928,9236685,325513,465893,1195067,58558403,#fyp #viral,16.8,Alto,Feminino,33
+TT00104,AU0019,mrbeast,Beleza,Desafio que viralizou no TikTok,Reino Unido,2026-03-04,53,61757170,10312941,439787,1871967,911634,61763160,#fitness #treino,21.92,Alto,Feminino,20
+TT00105,AU0026,addisonre,Fitness,Bastidores de um vídeo,Reino Unido,2025-03-22,53,11878592,1034119,65454,54633,126041,10261466,#tecnologia #tech,10.78,Medio,Masculino,32
+TT00106,AU0016,mrbeast,Dança,Tutorial em poucos segundos,Estados Unidos,2025-06-01,54,85039976,2875575,928475,1559494,798100,20527835,#tiktok #trend,7.25,Alto,Feminino,22
+TT00107,AU0029,fitnessbrasil,Lifestyle,Vídeo de humor,Coreia do Sul,2026-08-17,90,23826150,4097221,139036,532520,346185,20271159,#receita #foodtok,21.47,Alto,Masculino,49
+TT00108,AU0033,mrbeast,Educação,Dica de beleza e estilo,Canadá,2025-12-27,19,9215226,851228,88998,207039,140016,7645653,#fitness #treino,13.97,Medio,Masculino,48
+TT00109,AU0025,willsmith,Lifestyle,Treino rápido para iniciantes,Coreia do Sul,2026-06-04,20,111678432,6965128,1311075,2559520,353698,60372235,#lifestyle #rotina,10.02,Alto,Masculino,18
+TT00110,AU0007,bellapoarch,Comédia,Treino rápido para iniciantes,Coreia do Sul,2026-04-07,54,87538142,4031964,548489,1888215,2099631,5263567,#desafio #viral,9.79,Alto,Feminino,23
+TT00111,AU0019,spencerx,Beleza,Vídeo de humor,Coreia do Sul,2026-01-17,163,95025377,8289074,618767,1514736,457063,7038380,#fitness #treino,11.45,Alto,Feminino,15
+TT00112,AU0022,mrbeast,Lifestyle,Dica rápida para os seguidores,Reino Unido,2025-06-03,89,8896539,617410,43997,177670,62701,52617710,#fy #paravoce,10.14,Medio,Masculino,47
+TT00113,AU0009,emmaclair,Comédia,Participando de uma trend,França,2025-12-03,102,79915081,10545403,553620,310106,1314110,2456861,#fitness #treino,15.92,Alto,Masculino,40
+TT00114,AU0009,khaby.lame,Comédia,Tutorial em poucos segundos,Brasil,2025-08-20,139,41505302,1857087,473085,343769,525893,72456804,#tecnologia #tech,7.71,Alto,Feminino,52
+TT00115,AU0011,khaby.lame,Lifestyle,Dica rápida para os seguidores,Coreia do Sul,2025-06-07,122,5116382,635548,38922,157571,78454,5874298,#beleza #dicas,17.8,Medio,Feminino,51
+TT00116,AU0015,emmaclair,Desafio,Tutorial em poucos segundos,Canadá,2026-04-05,59,48945439,6196486,274499,444230,383647,49380777,#lifestyle #rotina,14.91,Alto,Masculino,14
+TT00117,AU0013,fitnessbrasil,Dança,Tutorial em poucos segundos,Brasil,2025-06-15,174,59185982,5396411,289510,626201,808423,64513785,#fitness #treino,12.03,Alto,Feminino,22
+TT00118,AU0049,khaby.lame,Educação,Dica de beleza e estilo,França,2025-03-27,47,74479198,12598784,479121,1875954,297340,58726573,#tiktok #trend,20.48,Alto,Feminino,30
+TT00119,AU0033,bellapoarch,Desafio,Participando de uma trend,Brasil,2026-02-10,105,29851436,4470432,334348,927705,327097,30147082,#fyp #viral,20.3,Alto,Feminino,25
+TT00120,AU0003,addisonre,Gastronomia,Dica rápida para os seguidores,Coreia do Sul,2025-05-21,130,42823159,7219396,341495,1264653,856169,60220270,#lifestyle #rotina,22.61,Alto,Feminino,35
+TT00121,AU0028,mrbeast,Educação,Bastidores de um vídeo,Reino Unido,2026-06-25,41,754803,124139,2249,1242,3463,6418822,#desafio #viral,17.37,Baixo,Feminino,29
+TT00122,AU0039,emmaclair,Entretenimento,Treino rápido para iniciantes,França,2026-05-27,71,56398030,6791847,68934,1250657,1188898,19280557,#brasil #fyp,16.49,Alto,Feminino,14
+TT00123,AU0034,bellapoarch,Comédia,Treino rápido para iniciantes,França,2025-03-29,139,57661469,879805,407241,749353,316880,68141950,#tecnologia #tech,4.08,Alto,Masculino,20
+TT00124,AU0048,zachking,Fitness,Novo trend do TikTok,Reino Unido,2025-09-17,71,2779224,220739,21706,47203,68215,13923528,#lifestyle #rotina,12.88,Baixo,Feminino,47
+TT00125,AU0050,willsmith,Gastronomia,Dica rápida para os seguidores,Estados Unidos,2025-06-29,26,98725126,13806908,449341,546534,900880,61438713,#fyp #viral,15.91,Alto,Feminino,21
+TT00126,AU0033,spencerx,Tecnologia,Dica de beleza e estilo,Reino Unido,2025-11-14,19,39435195,1903241,421427,1100151,338129,25659468,#brasil #fyp,9.54,Alto,Masculino,39
+TT00127,AU0028,spencerx,Gastronomia,Participando de uma trend,Reino Unido,2026-01-12,57,47962262,7542202,385660,125917,362460,66609269,#receita #foodtok,17.55,Alto,Feminino,43
+TT00128,AU0028,fitnessbrasil,Dança,Treino rápido para iniciantes,Reino Unido,2025-03-22,92,49354469,8267427,479389,920726,910587,13780458,#tiktok #trend,21.43,Alto,Feminino,26
+TT00129,AU0023,willsmith,Entretenimento,Vídeo de humor,França,2026-03-31,121,44062664,5466047,327392,503233,494682,36860196,#fyp #viral,15.41,Alto,Feminino,37
+TT00130,AU0002,khaby.lame,Lifestyle,Dica de beleza e estilo,Brasil,2025-06-13,42,10121854,1272775,64784,149916,192290,9033909,#desafio #viral,16.6,Medio,Feminino,13
+TT00131,AU0044,willsmith,Fitness,Vídeo de humor,Canadá,2025-06-07,29,104540564,12696647,1193735,1391761,185794,77040477,#fy #paravoce,14.8,Alto,Masculino,36
+TT00132,AU0048,khaby.lame,Gastronomia,Treino rápido para iniciantes,Canadá,2025-01-27,153,71112902,5372348,263468,831246,1710441,15815613,#brasil #fyp,11.5,Alto,Masculino,29
+TT00133,AU0013,mrbeast,Dança,Novo trend do TikTok,Canadá,2026-05-18,54,104063972,6030279,1244417,1683056,817302,59751812,#tiktok #trend,9.39,Alto,Masculino,20
+TT00134,AU0036,emmaclair,Educação,Tutorial em poucos segundos,Estados Unidos,2025-03-08,173,108835242,13878488,454415,3237600,1016326,23376099,#fitness #treino,17.08,Alto,Masculino,29
+TT00135,AU0002,bellapoarch,Tecnologia,Receita fácil e rápida,Reino Unido,2026-05-21,129,68334040,3553360,656605,2357148,456585,74050798,#fy #paravoce,10.28,Alto,Masculino,14
+TT00136,AU0034,spencerx,Beleza,Receita fácil e rápida,Brasil,2026-05-06,42,82184318,13223511,417400,265902,1496281,42560733,#tiktok #trend,18.74,Alto,Masculino,49
+TT00137,AU0041,fitnessbrasil,Dança,Dica rápida para os seguidores,Canadá,2026-07-19,138,60444554,5552586,119429,1123678,1263127,7447386,#tiktok #trend,13.33,Alto,Feminino,20
+TT00138,AU0034,addisonre,Comédia,Tutorial em poucos segundos,Estados Unidos,2025-12-21,172,69588491,2800766,293009,459168,1254260,73942683,#brasil #fyp,6.91,Alto,Masculino,28
+TT00139,AU0010,khaby.lame,Lifestyle,Receita fácil e rápida,Reino Unido,2026-08-18,154,16850072,1990476,26529,368857,276066,5539005,#fyp #viral,15.8,Medio,Feminino,27
+TT00140,AU0027,fitnessbrasil,Entretenimento,Dica de beleza e estilo,Coreia do Sul,2026-08-09,149,10951547,246422,78115,249798,182092,38889071,#brasil #fyp,6.91,Medio,Feminino,39
+TT00141,AU0011,willsmith,Beleza,Dica de beleza e estilo,Canadá,2025-03-03,62,64869756,3594099,335380,1845536,770980,45669873,#lifestyle #rotina,10.09,Alto,Feminino,17
+TT00142,AU0009,bellapoarch,Tecnologia,Treino rápido para iniciantes,Brasil,2026-02-13,91,19332885,1287108,172899,491525,418724,32455506,#receita #foodtok,12.26,Medio,Masculino,21
+TT00143,AU0040,spencerx,Desafio,Dica rápida para os seguidores,Reino Unido,2026-01-29,157,16494612,975373,26611,155531,131381,41981886,#desafio #viral,7.81,Medio,Feminino,23
+TT00144,AU0002,mrbeast,Beleza,Treino rápido para iniciantes,Canadá,2026-05-25,71,102474417,4231322,601358,3572561,2264460,28886195,#lifestyle #rotina,10.41,Alto,Masculino,21
+TT00145,AU0019,emmaclair,Entretenimento,Novo trend do TikTok,Canadá,2026-04-27,44,47414777,1091895,349516,500990,1006539,35506951,#fitness #treino,6.22,Alto,Masculino,53
+TT00146,AU0036,addisonre,Comédia,Participando de uma trend,França,2026-01-07,125,102573119,8363496,111631,260355,1485628,73810569,#brasil #fyp,9.96,Alto,Feminino,19
+TT00147,AU0024,bellapoarch,Tecnologia,Vídeo de humor,Estados Unidos,2026-02-08,60,110821409,19748371,206828,2674514,2704262,68343267,#beleza #dicas,22.86,Alto,Masculino,47
+TT00148,AU0030,khaby.lame,Lifestyle,Treino rápido para iniciantes,Estados Unidos,2026-06-16,93,67169320,1453682,584796,156039,1363213,42762377,#fy #paravoce,5.3,Alto,Feminino,18
+TT00149,AU0035,willsmith,Lifestyle,Tutorial em poucos segundos,Canadá,2026-06-06,14,52791471,9420722,208061,1379803,478975,49450148,#fitness #treino,21.76,Alto,Masculino,15
+TT00150,AU0039,willsmith,Educação,Receita fácil e rápida,França,2025-01-28,68,90486763,2993732,365412,1371993,2042323,6902773,#lifestyle #rotina,7.49,Alto,Feminino,16
+TT00151,AU0044,charlidamelio,Entretenimento,Receita fácil e rápida,Coreia do Sul,2025-06-01,38,64534744,2783673,492204,1444730,1367362,25616639,#fyp #viral,9.43,Alto,Masculino,29
+TT00152,AU0048,zachking,Dança,Treino rápido para iniciantes,Estados Unidos,2026-04-28,153,59245194,3955165,500074,364278,642754,43637409,#receita #foodtok,9.22,Alto,Feminino,25
+TT00153,AU0023,addisonre,Lifestyle,Dica de beleza e estilo,Estados Unidos,2026-07-14,73,70578349,5446960,408375,2366301,973631,37457604,#tecnologia #tech,13.03,Alto,Feminino,21
+TT00154,AU0045,willsmith,Fitness,Dica de beleza e estilo,Reino Unido,2025-08-01,153,40113879,2090055,157349,1367039,318347,36712849,#brasil #fyp,9.8,Alto,Feminino,30
+TT00155,AU0050,khaby.lame,Educação,Desafio que viralizou no TikTok,Reino Unido,2025-12-20,30,16407665,1798668,177223,319432,171768,46498123,#receita #foodtok,15.04,Medio,Masculino,28
+TT00156,AU0045,addisonre,Dança,Novo trend do TikTok,França,2026-07-30,160,88093078,5048901,248755,1523014,1226772,32125895,#desafio #viral,9.14,Alto,Feminino,38
+TT00157,AU0022,willsmith,Comédia,Dica rápida para os seguidores,Brasil,2026-02-28,150,6863620,861539,53785,130789,15510,21208492,#beleza #dicas,15.47,Medio,Feminino,16
+TT00158,AU0021,addisonre,Entretenimento,Novo trend do TikTok,Coreia do Sul,2025-10-22,156,87679787,14842460,525259,2706288,507397,31178067,#tecnologia #tech,21.19,Alto,Feminino,23
+TT00159,AU0003,spencerx,Gastronomia,Dica rápida para os seguidores,Coreia do Sul,2025-06-30,84,99194826,13323295,1091355,3258228,515967,5038625,#fyp #viral,18.34,Alto,Feminino,35
+TT00160,AU0034,willsmith,Dança,Treino rápido para iniciantes,Canadá,2026-07-11,79,40099524,4359367,473352,186391,313958,25888707,#tiktok #trend,13.3,Alto,Feminino,37
+TT00161,AU0019,fitnessbrasil,Desafio,Dica rápida para os seguidores,França,2025-12-12,173,44433668,1857840,153675,737736,242997,54433996,#beleza #dicas,6.73,Alto,Feminino,13
+TT00162,AU0021,charlidamelio,Entretenimento,Tutorial em poucos segundos,Canadá,2026-05-04,70,69209799,4782943,110523,1012423,1699823,59969826,#brasil #fyp,10.99,Alto,Feminino,26
+TT00163,AU0004,mrbeast,Gastronomia,Tutorial em poucos segundos,Estados Unidos,2025-08-30,113,44291559,2871025,27970,1132889,739155,67457155,#brasil #fyp,10.77,Alto,Masculino,37
+TT00164,AU0009,willsmith,Dança,Dica de beleza e estilo,Coreia do Sul,2025-08-13,165,92699206,3186405,360871,2980134,1460106,50157077,#beleza #dicas,8.62,Alto,Masculino,34
+TT00165,AU0049,charlidamelio,Lifestyle,Novo trend do TikTok,França,2025-08-12,124,94262889,9956394,629813,1603237,1596649,70900196,#fitness #treino,14.63,Alto,Feminino,21
+TT00166,AU0037,emmaclair,Dança,Dica rápida para os seguidores,Reino Unido,2025-07-27,143,10532769,1752077,105653,50716,238770,59312835,#tiktok #trend,20.39,Medio,Feminino,27
+TT00167,AU0030,khaby.lame,Tecnologia,Participando de uma trend,Canadá,2025-02-26,154,91357681,4466590,141223,1902708,1210398,7759299,#tecnologia #tech,8.45,Alto,Feminino,53
+TT00168,AU0048,charlidamelio,Lifestyle,Novo trend do TikTok,Brasil,2025-01-04,118,62109365,7826194,46604,712876,441409,46251881,#tiktok #trend,14.53,Alto,Feminino,43
+TT00169,AU0019,spencerx,Dança,Dica rápida para os seguidores,Coreia do Sul,2025-02-02,175,72683735,13012598,94032,2382268,1701570,56430024,#fitness #treino,23.65,Alto,Feminino,22
+TT00170,AU0009,bellapoarch,Comédia,Dica rápida para os seguidores,França,2026-07-07,110,119682771,9348317,1307872,3658353,1198681,70990044,#fy #paravoce,12.96,Alto,Masculino,35
+TT00171,AU0044,emmaclair,Beleza,Treino rápido para iniciantes,Canadá,2026-04-20,68,97741465,17250344,898836,2872028,2393080,33230503,#receita #foodtok,23.96,Alto,Masculino,28
+TT00172,AU0043,spencerx,Lifestyle,Desafio que viralizou no TikTok,Estados Unidos,2025-02-02,62,46510773,1888106,491381,344567,900995,9041632,#tiktok #trend,7.79,Alto,Feminino,15
+TT00173,AU0026,willsmith,Desafio,Treino rápido para iniciantes,Estados Unidos,2025-02-15,24,79767834,1638438,685029,1701024,172955,18818678,#tecnologia #tech,5.26,Alto,Masculino,21
+TT00174,AU0016,addisonre,Dança,Treino rápido para iniciantes,Estados Unidos,2025-11-25,115,38874283,2085086,276989,1250099,577648,40342555,#brasil #fyp,10.78,Alto,Feminino,33
+TT00175,AU0036,willsmith,Entretenimento,Vídeo de humor,Coreia do Sul,2026-03-14,107,8231595,879615,73713,173823,42830,70402240,#fitness #treino,14.21,Medio,Masculino,25
+TT00176,AU0016,charlidamelio,Educação,Dica rápida para os seguidores,Canadá,2026-04-30,24,93506932,7825928,451572,567904,1786542,75492164,#beleza #dicas,11.37,Alto,Feminino,17
+TT00177,AU0029,bellapoarch,Comédia,Treino rápido para iniciantes,Coreia do Sul,2025-03-22,58,55952739,5984274,184245,311049,329006,6927129,#brasil #fyp,12.17,Alto,Masculino,17
+TT00178,AU0014,willsmith,Desafio,Vídeo de humor,Reino Unido,2026-07-27,13,50672628,6392649,534425,1089428,279506,28438357,#desafio #viral,16.37,Alto,Feminino,29
+TT00179,AU0026,charlidamelio,Tecnologia,Vídeo de humor,Reino Unido,2025-07-29,107,99569117,3420913,598170,3483470,679284,62589077,#tecnologia #tech,8.22,Alto,Masculino,48
+TT00180,AU0047,willsmith,Fitness,Bastidores de um vídeo,Reino Unido,2025-04-11,90,87119904,6471077,557340,861885,1126865,55566767,#fyp #viral,10.35,Alto,Masculino,23
+TT00181,AU0038,spencerx,Educação,Dica rápida para os seguidores,Estados Unidos,2026-08-22,94,75550790,11904840,51867,1979625,1078825,30882577,#beleza #dicas,19.87,Alto,Masculino,31
+TT00182,AU0049,willsmith,Gastronomia,Dica de beleza e estilo,Estados Unidos,2025-09-21,100,76525853,11670563,614348,1375647,1334329,22728459,#fy #paravoce,19.59,Alto,Feminino,64
+TT00183,AU0034,zachking,Comédia,Desafio que viralizou no TikTok,Brasil,2025-03-02,115,96728845,10173953,1037677,702021,2395757,18463800,#desafio #viral,14.79,Alto,Masculino,28
+TT00184,AU0043,willsmith,Entretenimento,Desafio que viralizou no TikTok,França,2026-05-10,151,9172502,1207862,57932,12023,91328,55218920,#fyp #viral,14.93,Medio,Feminino,20
+TT00185,AU0012,mrbeast,Comédia,Treino rápido para iniciantes,Estados Unidos,2026-03-17,71,2294945,234896,26944,23732,3239,25770684,#lifestyle #rotina,12.58,Baixo,Masculino,44
+TT00186,AU0030,fitnessbrasil,Desafio,Bastidores de um vídeo,Reino Unido,2026-02-20,30,70709726,4005635,681766,922832,204808,4262622,#tiktok #trend,8.22,Alto,Masculino,13
+TT00187,AU0006,willsmith,Beleza,Vídeo de humor,França,2025-06-25,34,54445532,4223806,62357,1077577,66794,70898325,#fyp #viral,9.97,Alto,Feminino,46
+TT00188,AU0005,addisonre,Tecnologia,Receita fácil e rápida,Coreia do Sul,2025-02-17,18,30888737,1540848,330721,942599,383391,24082553,#fitness #treino,10.35,Alto,Masculino,39
+TT00189,AU0005,addisonre,Dança,Receita fácil e rápida,Estados Unidos,2026-02-12,155,2151593,373607,19689,45095,38954,52241715,#tecnologia #tech,22.19,Baixo,Masculino,21
+TT00190,AU0033,bellapoarch,Entretenimento,Novo trend do TikTok,Canadá,2025-03-22,69,44574025,3491689,427497,1165670,781982,10212996,#fitness #treino,13.16,Alto,Feminino,17
+TT00191,AU0041,addisonre,Gastronomia,Dica de beleza e estilo,Estados Unidos,2025-01-31,101,81274373,11531690,411417,2719861,1590158,74237466,#beleza #dicas,20.0,Alto,Feminino,70
+TT00192,AU0016,mrbeast,Comédia,Tutorial em poucos segundos,Estados Unidos,2025-10-30,107,58011650,2648042,282565,1213589,1133084,20716693,#beleza #dicas,9.1,Alto,Feminino,33
+TT00193,AU0007,khaby.lame,Comédia,Dica rápida para os seguidores,Canadá,2025-10-04,124,42553832,3170921,482732,174968,496758,74767265,#tecnologia #tech,10.16,Alto,Masculino,29
+TT00194,AU0025,zachking,Educação,Participando de uma trend,Canadá,2025-11-29,31,68828646,5666475,314547,130286,222560,75109723,#desafio #viral,9.2,Alto,Feminino,48
+TT00195,AU0032,khaby.lame,Comédia,Dica rápida para os seguidores,Canadá,2025-10-02,80,76817229,7757176,188146,1866715,572599,56529399,#brasil #fyp,13.52,Alto,Feminino,17
+TT00196,AU0039,fitnessbrasil,Desafio,Dica de beleza e estilo,Brasil,2026-05-23,44,65042426,9375214,738788,863649,1190379,40900504,#fyp #viral,18.71,Alto,Feminino,22
+TT00197,AU0028,fitnessbrasil,Dança,Tutorial em poucos segundos,Reino Unido,2025-12-09,164,53158878,3711331,518133,1174095,473592,26967830,#receita #foodtok,11.06,Alto,Masculino,18
+TT00198,AU0037,charlidamelio,Fitness,Participando de uma trend,Reino Unido,2026-05-18,110,42218966,1870728,176056,613869,786834,49001556,#tiktok #trend,8.17,Alto,Masculino,21
+TT00199,AU0047,willsmith,Desafio,Dica de beleza e estilo,Reino Unido,2025-01-28,27,75728734,3632480,194559,2643463,1470866,54924054,#receita #foodtok,10.49,Alto,Feminino,16
+TT00200,AU0005,willsmith,Lifestyle,Dica de beleza e estilo,França,2026-01-22,112,18730305,2238279,151240,172856,340248,71731578,#tecnologia #tech,15.5,Medio,Masculino,27
+TT00201,AU0039,mrbeast,Comédia,Bastidores de um vídeo,Coreia do Sul,2026-07-04,180,116770262,15078773,1120211,2275144,1124346,47658477,#fy #paravoce,16.78,Alto,Feminino,26
+TT00202,AU0028,mrbeast,Entretenimento,Novo trend do TikTok,Reino Unido,2025-12-06,66,86888849,10087087,687973,1750765,1435564,68551804,#tecnologia #tech,16.07,Alto,Masculino,15
+TT00203,AU0010,bellapoarch,Entretenimento,Dica de beleza e estilo,Brasil,2026-05-28,85,74942608,8302555,421661,1540670,778445,55841276,#tiktok #trend,14.74,Alto,Masculino,19
+TT00204,AU0034,willsmith,Fitness,Dica de beleza e estilo,Brasil,2025-07-31,122,15628562,2378158,70418,403609,144307,60736434,#fitness #treino,19.17,Medio,Masculino,49
+TT00205,AU0044,khaby.lame,Desafio,Treino rápido para iniciantes,Estados Unidos,2025-04-22,151,9065987,585151,16531,258800,193833,21503051,#fitness #treino,11.63,Medio,Feminino,16
+TT00206,AU0041,spencerx,Beleza,Desafio que viralizou no TikTok,Coreia do Sul,2025-07-10,167,75191654,6417678,727418,1256440,1211656,26494437,#receita #foodtok,12.78,Alto,Masculino,30
+TT00207,AU0037,mrbeast,Tecnologia,Dica rápida para os seguidores,Reino Unido,2025-03-06,93,79534162,6830093,236228,91567,610844,26460861,#receita #foodtok,9.77,Alto,Masculino,35
+TT00208,AU0040,spencerx,Lifestyle,Novo trend do TikTok,Reino Unido,2026-02-02,100,15344777,894421,100795,465401,250712,61463007,#lifestyle #rotina,11.15,Medio,Feminino,15
+TT00209,AU0044,khaby.lame,Fitness,Novo trend do TikTok,Estados Unidos,2025-03-28,88,23206250,3463922,90982,580239,365443,15706616,#fy #paravoce,19.39,Alto,Masculino,20
+TT00210,AU0028,khaby.lame,Gastronomia,Treino rápido para iniciantes,Coreia do Sul,2026-01-28,175,50154292,6490819,266306,921236,216105,23261181,#tecnologia #tech,15.74,Alto,Feminino,30
+TT00211,AU0023,zachking,Gastronomia,Dica rápida para os seguidores,Estados Unidos,2025-02-24,108,22446311,2150153,92426,129517,265405,75384270,#tecnologia #tech,11.75,Alto,Masculino,25
+TT00212,AU0011,mrbeast,Lifestyle,Desafio que viralizou no TikTok,Estados Unidos,2026-05-16,84,87703539,8478303,463052,2129414,1855579,4398260,#brasil #fyp,14.74,Alto,Masculino,33
+TT00213,AU0036,emmaclair,Comédia,Receita fácil e rápida,Brasil,2026-05-23,78,30227972,3134804,174088,203104,568903,72904477,#fitness #treino,13.5,Alto,Masculino,35
+TT00214,AU0007,charlidamelio,Educação,Desafio que viralizou no TikTok,Canadá,2026-03-12,77,72801830,10973478,638346,175798,1027414,46795209,#tiktok #trend,17.6,Alto,Masculino,34
+TT00215,AU0046,fitnessbrasil,Beleza,Dica rápida para os seguidores,França,2025-12-26,45,58980964,9305599,580179,294381,356072,27742020,#desafio #viral,17.86,Alto,Feminino,29
+TT00216,AU0046,addisonre,Educação,Receita fácil e rápida,Reino Unido,2025-11-28,141,108154393,2681584,403683,1398190,1506638,12790905,#fy #paravoce,5.54,Alto,Feminino,53
+TT00217,AU0045,khaby.lame,Desafio,Dica rápida para os seguidores,Coreia do Sul,2025-05-10,92,100725930,14568900,1200007,3247216,2196746,33236234,#beleza #dicas,21.06,Alto,Feminino,20
+TT00218,AU0041,mrbeast,Beleza,Treino rápido para iniciantes,Coreia do Sul,2025-03-19,81,65744038,2528405,507533,1479350,657712,49545894,#receita #foodtok,7.87,Alto,Feminino,23
+TT00219,AU0041,bellapoarch,Comédia,Treino rápido para iniciantes,Canadá,2026-04-15,65,65554221,4523420,616377,71066,1218349,57675720,#desafio #viral,9.81,Alto,Masculino,23
+TT00220,AU0032,bellapoarch,Entretenimento,Desafio que viralizou no TikTok,Brasil,2026-08-03,170,66449516,3941026,291326,1937912,988131,61694020,#fyp #viral,10.77,Alto,Feminino,31
+TT00221,AU0013,khaby.lame,Educação,Dica rápida para os seguidores,Reino Unido,2026-03-15,33,16724831,2815732,96167,106561,414844,48386818,#brasil #fyp,20.53,Medio,Feminino,36
+TT00222,AU0047,charlidamelio,Beleza,Novo trend do TikTok,Coreia do Sul,2025-11-09,34,11112296,848470,26708,352584,116814,155801,#desafio #viral,12.1,Medio,Feminino,42
+TT00223,AU0045,bellapoarch,Comédia,Participando de uma trend,Coreia do Sul,2025-01-09,43,64045913,1784312,414608,1356819,748159,64125841,#tiktok #trend,6.72,Alto,Masculino,30
+TT00224,AU0009,spencerx,Dança,Dica rápida para os seguidores,Brasil,2025-11-03,145,30778728,2407097,51644,795505,262248,75613667,#fyp #viral,11.43,Alto,Masculino,19
+TT00225,AU0027,fitnessbrasil,Gastronomia,Bastidores de um vídeo,Brasil,2025-06-05,35,81965661,10020575,721950,1308449,1317509,18802245,#tiktok #trend,16.31,Alto,Feminino,27
+TT00226,AU0018,mrbeast,Desafio,Treino rápido para iniciantes,França,2025-09-11,163,79181271,10725222,430585,1025572,1582504,38251423,#fyp #viral,17.38,Alto,Feminino,14
+TT00227,AU0048,spencerx,Educação,Desafio que viralizou no TikTok,Estados Unidos,2025-07-13,136,113852151,17620505,325916,3504155,1772250,51802685,#tiktok #trend,20.4,Alto,Feminino,48
+TT00228,AU0021,khaby.lame,Beleza,Receita fácil e rápida,Canadá,2026-01-05,103,32407445,3157493,213088,686830,792839,73340690,#fy #paravoce,14.97,Alto,Masculino,31
+TT00229,AU0017,charlidamelio,Entretenimento,Desafio que viralizou no TikTok,Canadá,2025-01-15,139,102421342,9496241,137183,3540752,1546226,38461741,#tecnologia #tech,14.37,Alto,Feminino,38
+TT00230,AU0018,mrbeast,Educação,Novo trend do TikTok,França,2025-06-06,62,103009761,8606082,149149,2560983,1429523,20864365,#tecnologia #tech,12.37,Alto,Feminino,25
+TT00231,AU0020,spencerx,Desafio,Desafio que viralizou no TikTok,Estados Unidos,2025-03-09,32,43905682,3489215,443318,990775,761558,58325400,#tiktok #trend,12.95,Alto,Masculino,20
+TT00232,AU0008,zachking,Dança,Desafio que viralizou no TikTok,Estados Unidos,2025-06-29,137,60900538,7066226,496943,174843,1022718,46543974,#tecnologia #tech,14.39,Alto,Feminino,23
+TT00233,AU0047,mrbeast,Entretenimento,Vídeo de humor,Canadá,2025-10-03,79,69470474,10017147,168123,1771915,281100,70320522,#tiktok #trend,17.62,Alto,Masculino,36
+TT00234,AU0004,willsmith,Lifestyle,Dica rápida para os seguidores,Reino Unido,2026-01-04,50,35342504,4684059,48995,728273,421450,34251100,#tiktok #trend,16.65,Alto,Feminino,21
+TT00235,AU0016,zachking,Gastronomia,Vídeo de humor,Canadá,2025-01-13,48,77079205,9729698,695175,379333,81830,24029729,#fyp #viral,14.12,Alto,Masculino,29
+TT00236,AU0027,bellapoarch,Educação,Novo trend do TikTok,França,2025-09-12,105,74254255,10953546,597047,1876903,474363,16035721,#tecnologia #tech,18.72,Alto,Masculino,45
+TT00237,AU0005,willsmith,Educação,Tutorial em poucos segundos,Reino Unido,2026-02-15,32,90422247,14812996,881606,641790,2220221,74244670,#receita #foodtok,20.52,Alto,Feminino,32
+TT00238,AU0030,bellapoarch,Lifestyle,Dica de beleza e estilo,Estados Unidos,2025-09-06,149,1119604,84946,10660,12219,20992,32910372,#fy #paravoce,11.51,Baixo,Masculino,26
+TT00239,AU0022,zachking,Beleza,Tutorial em poucos segundos,Brasil,2025-01-10,62,906024,152978,6095,1642,14734,71120496,#desafio #viral,19.36,Baixo,Feminino,53
+TT00240,AU0003,charlidamelio,Tecnologia,Participando de uma trend,Coreia do Sul,2025-04-06,105,56396728,5424506,674788,171244,1019633,61543194,#tiktok #trend,12.93,Alto,Masculino,62
+TT00241,AU0004,spencerx,Dança,Bastidores de um vídeo,Reino Unido,2026-08-05,76,77999714,2400067,774503,432077,218081,42289780,#beleza #dicas,4.9,Alto,Masculino,19
+TT00242,AU0009,fitnessbrasil,Comédia,Dica rápida para os seguidores,Brasil,2025-07-27,52,94099798,14327962,537000,1137906,621686,60349827,#receita #foodtok,17.67,Alto,Masculino,42
+TT00243,AU0030,addisonre,Comédia,Novo trend do TikTok,Estados Unidos,2025-11-12,87,42198834,3463451,489223,811122,252486,5422975,#desafio #viral,11.89,Alto,Feminino,35
+TT00244,AU0033,zachking,Educação,Tutorial em poucos segundos,Estados Unidos,2026-02-10,17,112245920,17547919,974104,678303,2721020,54286605,#receita #foodtok,19.53,Alto,Masculino,18
+TT00245,AU0008,zachking,Entretenimento,Bastidores de um vídeo,Estados Unidos,2025-05-24,60,74668850,10336628,434087,708979,1515293,53775180,#fitness #treino,17.4,Alto,Masculino,19
+TT00246,AU0002,mrbeast,Desafio,Dica de beleza e estilo,Estados Unidos,2025-03-18,33,92161648,10967152,663261,2112279,664641,44509873,#tiktok #trend,15.63,Alto,Masculino,21
+TT00247,AU0032,zachking,Beleza,Participando de uma trend,Estados Unidos,2026-02-09,100,5780602,985455,64323,15732,65874,28828707,#fy #paravoce,19.57,Medio,Feminino,13
+TT00248,AU0042,addisonre,Gastronomia,Participando de uma trend,França,2025-09-09,132,36957428,2260907,33205,1147025,586153,8194472,#tiktok #trend,10.9,Alto,Feminino,61
+TT00249,AU0041,emmaclair,Entretenimento,Participando de uma trend,Coreia do Sul,2025-09-13,101,37600897,2940296,296690,573563,757009,64392155,#tecnologia #tech,12.15,Alto,Feminino,22
+TT00250,AU0002,bellapoarch,Lifestyle,Bastidores de um vídeo,Brasil,2025-07-04,81,104932444,9965656,658715,3361093,1083023,7873981,#receita #foodtok,14.36,Alto,Feminino,32
+TT00251,AU0043,charlidamelio,Educação,Treino rápido para iniciantes,Coreia do Sul,2025-09-11,24,71109199,5260404,225897,1483026,343528,29458924,#lifestyle #rotina,10.28,Alto,Feminino,28
+TT00252,AU0012,charlidamelio,Lifestyle,Vídeo de humor,Coreia do Sul,2025-06-27,101,113665989,20134755,1279295,1614780,2818576,79408174,#fyp #viral,22.74,Alto,Feminino,19
+TT00253,AU0032,emmaclair,Educação,Dica rápida para os seguidores,Canadá,2025-07-12,19,94465847,12336534,659510,3137871,1371135,12124140,#fyp #viral,18.53,Alto,Feminino,29
+TT00254,AU0009,bellapoarch,Dança,Vídeo de humor,Brasil,2025-07-26,15,31272178,3573608,187535,52460,280249,19835571,#lifestyle #rotina,13.09,Alto,Feminino,16
+TT00255,AU0024,spencerx,Lifestyle,Novo trend do TikTok,Reino Unido,2025-03-16,87,94632741,15741397,968521,2586167,2049372,43309069,#fy #paravoce,22.56,Alto,Feminino,21
+TT00256,AU0012,emmaclair,Lifestyle,Vídeo de humor,Estados Unidos,2025-11-21,180,21189813,2878383,166373,335933,268958,79057551,#fy #paravoce,17.22,Alto,Masculino,18
+TT00257,AU0026,fitnessbrasil,Entretenimento,Dica rápida para os seguidores,França,2026-08-10,91,50835855,3336145,99867,1240849,940053,29658058,#lifestyle #rotina,11.05,Alto,Masculino,40
+TT00258,AU0011,mrbeast,Fitness,Dica de beleza e estilo,Brasil,2025-11-24,77,14023438,2377722,127212,81081,94123,28153348,#desafio #viral,19.11,Medio,Masculino,24
+TT00259,AU0029,spencerx,Dança,Participando de uma trend,Canadá,2026-01-31,106,93086518,2437576,162193,905393,95948,47151449,#tecnologia #tech,3.87,Alto,Feminino,36
+TT00260,AU0011,willsmith,Comédia,Desafio que viralizou no TikTok,Reino Unido,2025-08-19,15,50428298,1600377,526299,872542,838283,42787459,#brasil #fyp,7.61,Alto,Feminino,64
+TT00261,AU0006,bellapoarch,Lifestyle,Receita fácil e rápida,Canadá,2026-07-15,17,14105958,384289,67959,95688,261914,57901237,#fy #paravoce,5.74,Medio,Masculino,21
+TT00262,AU0027,emmaclair,Tecnologia,Tutorial em poucos segundos,Coreia do Sul,2025-07-14,82,81562791,13197617,135758,517232,483929,39926439,#desafio #viral,17.57,Alto,Feminino,39
+TT00263,AU0001,spencerx,Comédia,Tutorial em poucos segundos,Coreia do Sul,2026-01-05,170,12923617,299696,131282,264160,60562,64478586,#desafio #viral,5.85,Medio,Feminino,34
+TT00264,AU0020,spencerx,Gastronomia,Dica de beleza e estilo,Coreia do Sul,2025-04-29,77,13067361,251499,50385,88966,38763,12242184,#tecnologia #tech,3.29,Medio,Feminino,31
+TT00265,AU0029,willsmith,Educação,Bastidores de um vídeo,Reino Unido,2025-09-27,154,52063009,2369148,247201,1619511,609064,8283096,#fy #paravoce,9.31,Alto,Masculino,17
+TT00266,AU0049,fitnessbrasil,Desafio,Treino rápido para iniciantes,Brasil,2026-02-28,109,101013291,13123415,826654,433133,2060299,70149805,#beleza #dicas,16.28,Alto,Feminino,19
+TT00267,AU0006,spencerx,Entretenimento,Treino rápido para iniciantes,França,2025-11-03,142,71925527,9232807,509679,2361767,478693,76713472,#lifestyle #rotina,17.49,Alto,Feminino,31
+TT00268,AU0013,khaby.lame,Entretenimento,Participando de uma trend,Brasil,2025-08-05,121,19840089,691357,49364,530611,488558,27111146,#fy #paravoce,8.87,Medio,Feminino,16
+TT00269,AU0025,emmaclair,Beleza,Treino rápido para iniciantes,Reino Unido,2025-03-31,80,112002096,12676717,992527,1329630,2282182,69761366,#receita #foodtok,15.43,Alto,Feminino,30
+TT00270,AU0027,khaby.lame,Dança,Receita fácil e rápida,França,2025-04-26,159,117284656,1998533,851149,2910302,2317598,13459152,#tiktok #trend,6.89,Alto,Masculino,60
+TT00271,AU0017,spencerx,Gastronomia,Receita fácil e rápida,França,2026-02-25,131,75572135,10854038,791691,2094508,1671901,5038557,#fy #paravoce,20.39,Alto,Feminino,22
+TT00272,AU0022,charlidamelio,Entretenimento,Dica de beleza e estilo,Reino Unido,2026-02-10,105,37015460,3016415,308314,815092,393891,2725612,#fitness #treino,12.25,Alto,Masculino,16
+TT00273,AU0015,khaby.lame,Educação,Dica de beleza e estilo,Reino Unido,2025-04-11,78,109757681,16019417,1118731,1270146,2370506,55948288,#lifestyle #rotina,18.93,Alto,Masculino,69
+TT00274,AU0049,emmaclair,Fitness,Desafio que viralizou no TikTok,França,2026-05-12,50,86694900,2577641,954032,1388710,933885,8816960,#brasil #fyp,6.75,Alto,Feminino,15
+TT00275,AU0012,charlidamelio,Desafio,Desafio que viralizou no TikTok,Estados Unidos,2025-01-30,18,95286792,9397299,980491,534758,2106217,61273503,#fyp #viral,13.66,Alto,Feminino,18
+TT00276,AU0044,zachking,Desafio,Vídeo de humor,Canadá,2025-05-07,162,48418724,6355664,482750,499450,635400,59884989,#fy #paravoce,16.47,Alto,Masculino,31
+TT00277,AU0048,mrbeast,Educação,Desafio que viralizou no TikTok,Canadá,2025-09-22,22,116883951,10905983,521169,2307914,2466682,21875061,#lifestyle #rotina,13.86,Alto,Feminino,51
+TT00278,AU0042,spencerx,Tecnologia,Desafio que viralizou no TikTok,Coreia do Sul,2025-10-03,12,104717028,18242900,831963,3156357,1807906,63642249,#fy #paravoce,22.96,Alto,Feminino,38
+TT00279,AU0046,addisonre,Beleza,Participando de uma trend,Reino Unido,2025-11-09,127,86938739,3788625,267193,2454228,1356266,33832694,#desafio #viral,9.05,Alto,Feminino,38
+TT00280,AU0033,bellapoarch,Tecnologia,Receita fácil e rápida,França,2025-01-08,82,62689147,4065638,480917,1172392,942073,40070760,#tiktok #trend,10.63,Alto,Masculino,42
+TT00281,AU0042,addisonre,Desafio,Dica rápida para os seguidores,França,2025-09-25,71,64707836,1652192,509046,2239167,1402594,7630167,#lifestyle #rotina,8.97,Alto,Feminino,24
+TT00282,AU0017,spencerx,Beleza,Participando de uma trend,Coreia do Sul,2025-10-30,19,54287172,6730930,477442,1310801,908203,78262116,#lifestyle #rotina,17.37,Alto,Feminino,21
+TT00283,AU0043,bellapoarch,Tecnologia,Tutorial em poucos segundos,Estados Unidos,2026-05-03,178,109573639,5077204,334985,2816337,1515539,74936784,#fy #paravoce,8.89,Alto,Feminino,18
+TT00284,AU0044,bellapoarch,Comédia,Bastidores de um vídeo,Reino Unido,2025-07-07,67,39481028,1228037,137176,211227,805422,41226287,#beleza #dicas,6.03,Alto,Feminino,44
+TT00285,AU0031,zachking,Lifestyle,Receita fácil e rápida,França,2025-05-01,28,105825707,17072775,765549,1443166,1283692,63390252,#desafio #viral,19.43,Alto,Feminino,22
+TT00286,AU0009,charlidamelio,Fitness,Participando de uma trend,França,2025-06-04,127,67222936,2337316,443210,1623012,733709,19233220,#fitness #treino,7.64,Alto,Feminino,40
+TT00287,AU0021,zachking,Entretenimento,Dica de beleza e estilo,Reino Unido,2025-07-01,63,115798555,15411084,707202,3182607,1869542,22639881,#lifestyle #rotina,18.28,Alto,Masculino,23
+TT00288,AU0041,spencerx,Beleza,Participando de uma trend,Canadá,2026-03-21,108,102657270,4223504,971872,2843315,421484,636681,#fyp #viral,8.24,Alto,Feminino,36
+TT00289,AU0013,zachking,Entretenimento,Bastidores de um vídeo,Estados Unidos,2026-06-28,98,71693088,3434339,47452,981152,626103,41898314,#fy #paravoce,7.1,Alto,Feminino,21
+TT00290,AU0019,willsmith,Tecnologia,Receita fácil e rápida,França,2025-11-02,96,13835264,1083105,33491,290745,287389,58215561,#fy #paravoce,12.25,Medio,Masculino,31
+TT00291,AU0002,charlidamelio,Desafio,Dica rápida para os seguidores,Estados Unidos,2026-02-18,15,46050822,8259809,420274,813537,228283,79157232,#tecnologia #tech,21.11,Alto,Masculino,42
+TT00292,AU0050,emmaclair,Lifestyle,Desafio que viralizou no TikTok,França,2025-09-19,22,22730748,802889,218430,572308,227412,14520741,#fyp #viral,8.01,Alto,Feminino,25
+TT00293,AU0045,khaby.lame,Desafio,Desafio que viralizou no TikTok,Reino Unido,2026-05-01,117,6523999,840347,31790,98971,92215,13563285,#tecnologia #tech,16.3,Medio,Masculino,27
+TT00294,AU0047,fitnessbrasil,Comédia,Tutorial em poucos segundos,Brasil,2026-06-08,37,36285719,4273065,192912,900781,818857,66815406,#desafio #viral,17.05,Alto,Masculino,20
+TT00295,AU0019,khaby.lame,Entretenimento,Treino rápido para iniciantes,Canadá,2026-02-24,63,81788839,3922482,532950,813127,477659,64523622,#fitness #treino,7.03,Alto,Feminino,44
+TT00296,AU0010,mrbeast,Tecnologia,Novo trend do TikTok,Coreia do Sul,2026-05-21,35,31524764,487113,344537,751409,663456,34355256,#desafio #viral,7.13,Alto,Feminino,24
+TT00297,AU0003,addisonre,Fitness,Vídeo de humor,Canadá,2025-06-28,39,61354112,10929000,358258,678868,208322,12760478,#fyp #viral,19.84,Alto,Feminino,25
+TT00298,AU0040,addisonre,Comédia,Vídeo de humor,Reino Unido,2026-03-25,56,1348197,209752,3317,31755,12916,15288272,#beleza #dicas,19.12,Baixo,Feminino,27
+TT00299,AU0042,khaby.lame,Comédia,Dica rápida para os seguidores,Coreia do Sul,2026-03-08,25,53770675,9344329,265397,550736,1151559,21403688,#tiktok #trend,21.04,Alto,Masculino,46
+TT00300,AU0050,bellapoarch,Lifestyle,Desafio que viralizou no TikTok,Coreia do Sul,2026-01-24,43,55888294,9241264,393612,973068,643604,64847853,#receita #foodtok,20.13,Alto,Feminino,18
+TT00301,AU0046,emmaclair,Lifestyle,Receita fácil e rápida,Estados Unidos,2025-01-13,96,15208211,2455411,18681,243078,254271,69682379,#tecnologia #tech,19.54,Medio,Feminino,69
+TT00302,AU0043,spencerx,Dança,Treino rápido para iniciantes,França,2025-12-21,23,92424229,12070209,749533,391715,643813,1572947,#fy #paravoce,14.99,Alto,Feminino,16
+TT00303,AU0021,charlidamelio,Fitness,Tutorial em poucos segundos,Brasil,2026-05-19,139,67906130,10529491,712897,2034713,189917,29901163,#tecnologia #tech,19.83,Alto,Masculino,33
+TT00304,AU0029,mrbeast,Gastronomia,Dica de beleza e estilo,Reino Unido,2026-08-10,40,86394588,6693438,121518,2486566,1007406,66766320,#fyp #viral,11.93,Alto,Masculino,36
+TT00305,AU0033,emmaclair,Desafio,Dica de beleza e estilo,Reino Unido,2025-11-08,103,13826553,1127797,94222,30671,287893,7294695,#desafio #viral,11.14,Medio,Masculino,20
+TT00306,AU0046,willsmith,Comédia,Novo trend do TikTok,Coreia do Sul,2026-01-08,66,113372368,10201914,864715,2272563,1400739,304869,#fitness #treino,13.0,Alto,Masculino,29
+TT00307,AU0003,khaby.lame,Gastronomia,Dica rápida para os seguidores,Coreia do Sul,2025-04-19,114,47715946,7249523,184079,1612357,645484,14366130,#brasil #fyp,20.31,Alto,Feminino,28
+TT00308,AU0046,bellapoarch,Comédia,Participando de uma trend,Brasil,2025-07-15,172,82037136,3882574,845001,418828,506509,79038889,#tiktok #trend,6.89,Alto,Feminino,22
+TT00309,AU0001,emmaclair,Entretenimento,Treino rápido para iniciantes,Canadá,2026-05-26,159,103685570,16811523,754533,1716119,1358357,64828030,#tecnologia #tech,19.91,Alto,Feminino,15
+TT00310,AU0007,spencerx,Lifestyle,Receita fácil e rápida,Reino Unido,2025-05-12,139,104884983,17514930,750281,736804,1943715,51638545,#beleza #dicas,19.97,Alto,Masculino,28
+TT00311,AU0029,khaby.lame,Dança,Participando de uma trend,França,2025-10-29,141,81787749,13587005,298226,2201786,1973231,40129441,#tecnologia #tech,22.08,Alto,Masculino,16
+TT00312,AU0040,addisonre,Fitness,Dica rápida para os seguidores,Coreia do Sul,2025-08-03,176,115572211,7719678,793540,3010868,718422,23875616,#tecnologia #tech,10.59,Alto,Masculino,21
+TT00313,AU0038,fitnessbrasil,Beleza,Treino rápido para iniciantes,Reino Unido,2026-05-07,118,72861973,9440104,133130,871499,688815,1724029,#tecnologia #tech,15.28,Alto,Masculino,21
+TT00314,AU0019,addisonre,Dança,Desafio que viralizou no TikTok,Coreia do Sul,2025-06-14,85,14340224,274900,117703,85196,83139,27390537,#tecnologia #tech,3.91,Medio,Masculino,15
+TT00315,AU0015,emmaclair,Beleza,Bastidores de um vídeo,França,2026-07-30,83,4386089,325371,33269,71880,75496,6315532,#beleza #dicas,11.54,Baixo,Feminino,17
+TT00316,AU0001,addisonre,Desafio,Receita fácil e rápida,Canadá,2025-02-25,67,52066704,4359723,436277,1447235,1258972,49367377,#lifestyle #rotina,14.41,Alto,Masculino,18
+TT00317,AU0012,mrbeast,Dança,Dica rápida para os seguidores,Coreia do Sul,2026-04-05,141,73415441,10046481,648736,563826,414352,16029397,#beleza #dicas,15.9,Alto,Feminino,42
+TT00318,AU0001,bellapoarch,Gastronomia,Dica rápida para os seguidores,Brasil,2025-09-19,49,5503834,471699,10984,109660,82643,43312669,#lifestyle #rotina,12.26,Medio,Masculino,45
+TT00319,AU0036,bellapoarch,Comédia,Vídeo de humor,França,2026-08-10,66,6875701,980846,70105,153070,56571,24688492,#tecnologia #tech,18.33,Medio,Feminino,34
+TT00320,AU0015,charlidamelio,Fitness,Vídeo de humor,Reino Unido,2025-12-24,85,9200490,1331610,62061,59054,98279,29329229,#lifestyle #rotina,16.86,Medio,Feminino,15
+TT00321,AU0043,bellapoarch,Gastronomia,Bastidores de um vídeo,Coreia do Sul,2025-04-28,167,71252356,6651509,651926,1431130,1181592,32735927,#fyp #viral,13.92,Alto,Feminino,29
+TT00322,AU0035,addisonre,Entretenimento,Treino rápido para iniciantes,Reino Unido,2025-09-20,141,91660492,14769614,885108,1280191,341066,68291335,#receita #foodtok,18.85,Alto,Feminino,38
+TT00323,AU0011,emmaclair,Tecnologia,Desafio que viralizou no TikTok,Coreia do Sul,2025-04-09,26,65387822,1453932,177455,2062434,871846,28300610,#desafio #viral,6.98,Alto,Masculino,41
+TT00324,AU0042,mrbeast,Dança,Desafio que viralizou no TikTok,Canadá,2026-03-22,94,116141738,14876810,332649,3416031,2426197,5095015,#tiktok #trend,18.13,Alto,Masculino,15
+TT00325,AU0017,spencerx,Beleza,Dica de beleza e estilo,Coreia do Sul,2025-08-22,113,9881184,236696,68357,276705,146232,58129636,#fitness #treino,7.37,Medio,Feminino,16
+TT00326,AU0049,fitnessbrasil,Entretenimento,Novo trend do TikTok,Reino Unido,2025-03-06,138,2317067,183668,1315,11637,42371,14255271,#brasil #fyp,10.31,Baixo,Masculino,13
+TT00327,AU0026,zachking,Gastronomia,Dica rápida para os seguidores,França,2026-01-26,66,105664842,13543060,394917,2284816,2455712,18314809,#beleza #dicas,17.68,Alto,Masculino,37
+TT00328,AU0001,emmaclair,Tecnologia,Dica rápida para os seguidores,Brasil,2026-01-18,20,106990717,15683230,1234838,2092164,476944,685093,#lifestyle #rotina,18.21,Alto,Masculino,19
+TT00329,AU0014,spencerx,Tecnologia,Dica rápida para os seguidores,Estados Unidos,2025-12-19,57,80131663,6412414,118511,1571851,484096,29643659,#lifestyle #rotina,10.72,Alto,Masculino,29
+TT00330,AU0049,emmaclair,Gastronomia,Treino rápido para iniciantes,Brasil,2025-02-25,84,112088029,6355659,920942,548913,1638169,9051276,#brasil #fyp,8.44,Alto,Masculino,25
+TT00331,AU0007,addisonre,Lifestyle,Novo trend do TikTok,Estados Unidos,2025-08-29,91,13230503,629426,151392,274403,126633,65221190,#receita #foodtok,8.93,Medio,Feminino,30
+TT00332,AU0021,spencerx,Dança,Desafio que viralizou no TikTok,Reino Unido,2026-01-09,73,44119864,5148633,318455,502656,642969,29742676,#beleza #dicas,14.99,Alto,Feminino,15
+TT00333,AU0029,bellapoarch,Educação,Dica de beleza e estilo,França,2026-04-19,37,37185338,5712343,332034,206988,820652,23601471,#lifestyle #rotina,19.02,Alto,Masculino,31
+TT00334,AU0047,mrbeast,Comédia,Desafio que viralizou no TikTok,França,2025-09-27,171,11052322,1700906,23320,333738,153923,4196818,#lifestyle #rotina,20.01,Medio,Feminino,14
+TT00335,AU0035,willsmith,Dança,Vídeo de humor,Canadá,2026-07-11,67,77748748,6363516,849210,1637484,1107006,79144873,#brasil #fyp,12.81,Alto,Feminino,41
+TT00336,AU0040,khaby.lame,Tecnologia,Dica rápida para os seguidores,Canadá,2025-09-02,50,18019238,1651926,91231,330725,235187,24054459,#lifestyle #rotina,12.81,Medio,Masculino,27
+TT00337,AU0003,charlidamelio,Gastronomia,Bastidores de um vídeo,Brasil,2026-01-03,77,75992072,9408061,681122,2576359,957810,49594751,#desafio #viral,17.93,Alto,Feminino,19
+TT00338,AU0003,zachking,Fitness,Novo trend do TikTok,Coreia do Sul,2026-04-11,143,5795651,726291,55648,107846,59777,36717919,#brasil #fyp,16.38,Medio,Masculino,46
+TT00339,AU0034,addisonre,Beleza,Bastidores de um vídeo,França,2025-03-21,113,77712596,8145660,623042,537063,759028,47375168,#fitness #treino,12.95,Alto,Feminino,53
+TT00340,AU0011,charlidamelio,Comédia,Treino rápido para iniciantes,Coreia do Sul,2026-03-27,81,65395452,9533903,37659,2037973,1449740,28399345,#fy #paravoce,19.97,Alto,Feminino,19
+TT00341,AU0022,mrbeast,Gastronomia,Dica de beleza e estilo,Canadá,2026-03-01,63,25136055,1029672,248720,539638,423960,79304612,#fy #paravoce,8.92,Alto,Feminino,58
+TT00342,AU0009,emmaclair,Entretenimento,Receita fácil e rápida,Estados Unidos,2025-06-14,24,86923663,13256312,86589,153260,1283312,22335960,#brasil #fyp,17.0,Alto,Feminino,38
+TT00343,AU0006,charlidamelio,Gastronomia,Receita fácil e rápida,Canadá,2025-10-18,133,24214229,2427372,282006,358019,394763,22903086,#desafio #viral,14.3,Alto,Feminino,45
+TT00344,AU0017,khaby.lame,Fitness,Dica de beleza e estilo,França,2026-06-08,161,111499512,9229542,802844,652518,2165294,9249937,#desafio #viral,11.52,Alto,Masculino,25
+TT00345,AU0044,spencerx,Dança,Receita fácil e rápida,Brasil,2026-06-01,55,50812668,3993937,143647,238381,1099088,63880080,#lifestyle #rotina,10.77,Alto,Feminino,26
+TT00346,AU0043,khaby.lame,Lifestyle,Treino rápido para iniciantes,Brasil,2026-05-09,176,80555645,1727196,506556,2227486,307754,57924523,#tecnologia #tech,5.92,Alto,Masculino,27
+TT00347,AU0050,spencerx,Fitness,Receita fácil e rápida,Coreia do Sul,2026-05-09,157,56513253,4301352,372585,139977,367769,13125341,#beleza #dicas,9.17,Alto,Masculino,44
+TT00348,AU0027,addisonre,Desafio,Desafio que viralizou no TikTok,Coreia do Sul,2026-07-11,11,18019486,1027029,197601,487232,54267,77586121,#tecnologia #tech,9.8,Medio,Feminino,42
+TT00349,AU0024,mrbeast,Dança,Participando de uma trend,Coreia do Sul,2026-02-23,159,15864687,1598537,45409,218155,322099,34052008,#brasil #fyp,13.77,Medio,Feminino,21
+TT00350,AU0049,charlidamelio,Beleza,Treino rápido para iniciantes,França,2026-02-11,133,114803060,11877215,865227,2318882,2847479,23997338,#fitness #treino,15.6,Alto,Masculino,20
+TT00351,AU0048,khaby.lame,Comédia,Bastidores de um vídeo,Canadá,2026-02-12,51,75090303,8001650,302351,723002,695677,13469168,#desafio #viral,12.95,Alto,Feminino,23
+TT00352,AU0011,spencerx,Entretenimento,Novo trend do TikTok,Estados Unidos,2025-02-23,130,68278715,5536895,466454,853954,1210539,58445370,#tiktok #trend,11.82,Alto,Masculino,22
+TT00353,AU0040,emmaclair,Educação,Receita fácil e rápida,Brasil,2026-02-15,54,8650733,505290,64913,117722,159068,66363000,#receita #foodtok,9.79,Medio,Masculino,40
+TT00354,AU0039,emmaclair,Tecnologia,Bastidores de um vídeo,França,2025-02-04,53,1487525,71820,14495,34710,11698,4850043,#fitness #treino,8.92,Baixo,Feminino,43
+TT00355,AU0023,spencerx,Beleza,Receita fácil e rápida,Estados Unidos,2026-02-14,142,32162480,3958498,48201,1099055,245158,2072459,#tiktok #trend,16.64,Alto,Masculino,31
+TT00356,AU0018,charlidamelio,Lifestyle,Bastidores de um vídeo,Canadá,2025-12-22,113,12151856,1284242,84210,312165,182160,77172674,#fyp #viral,15.33,Medio,Feminino,21
+TT00357,AU0008,emmaclair,Educação,Treino rápido para iniciantes,França,2025-12-15,74,35095256,1540005,243008,639158,458907,59437400,#beleza #dicas,8.21,Alto,Masculino,32
+TT00358,AU0038,zachking,Gastronomia,Novo trend do TikTok,Reino Unido,2026-04-17,27,75637210,7170326,333265,701254,1483576,51371533,#desafio #viral,12.81,Alto,Feminino,16
+TT00359,AU0001,addisonre,Desafio,Tutorial em poucos segundos,Brasil,2026-07-03,112,90903721,11880576,476598,2563983,861250,45911507,#tiktok #trend,17.36,Alto,Feminino,22
+TT00360,AU0012,charlidamelio,Gastronomia,Bastidores de um vídeo,Estados Unidos,2025-10-03,71,74480642,12563422,340055,1281281,1673102,35632106,#desafio #viral,21.29,Alto,Masculino,37
+TT00361,AU0008,mrbeast,Gastronomia,Receita fácil e rápida,Brasil,2025-04-20,148,30813714,1493124,234611,292411,146176,5682460,#receita #foodtok,7.03,Alto,Masculino,26
+TT00362,AU0032,khaby.lame,Tecnologia,Tutorial em poucos segundos,Canadá,2025-10-09,66,49871155,5855378,590058,884692,1123497,77408691,#fy #paravoce,16.95,Alto,Feminino,26
+TT00363,AU0026,khaby.lame,Gastronomia,Novo trend do TikTok,Coreia do Sul,2025-12-22,142,7317644,744543,82733,112603,13036,61759629,#fitness #treino,13.02,Medio,Masculino,35
+TT00364,AU0040,addisonre,Dança,Treino rápido para iniciantes,Reino Unido,2026-01-06,70,92554274,1516878,450130,2213852,316345,36169360,#receita #foodtok,4.86,Alto,Feminino,15
+TT00365,AU0024,spencerx,Educação,Dica de beleza e estilo,Estados Unidos,2026-01-17,156,82336747,5896209,442588,597193,910498,17611200,#lifestyle #rotina,9.53,Alto,Masculino,25
+TT00366,AU0025,charlidamelio,Dança,Dica rápida para os seguidores,Canadá,2026-03-19,12,92124960,4856230,332056,404941,613489,23713827,#beleza #dicas,6.74,Alto,Masculino,37
+TT00367,AU0032,addisonre,Educação,Treino rápido para iniciantes,França,2025-11-20,22,67104885,2495484,520230,2105160,927093,53482598,#tiktok #trend,9.01,Alto,Feminino,17
+TT00368,AU0029,bellapoarch,Educação,Vídeo de humor,Reino Unido,2025-04-09,153,92733136,3890285,317548,772085,1959944,74835240,#brasil #fyp,7.48,Alto,Masculino,48
+TT00369,AU0037,fitnessbrasil,Tecnologia,Dica rápida para os seguidores,Reino Unido,2025-07-23,100,46239726,844930,484349,236843,1115061,43642879,#tecnologia #tech,5.8,Alto,Feminino,49
+TT00370,AU0041,khaby.lame,Dança,Vídeo de humor,Canadá,2026-04-20,171,65480302,9352736,91782,1060494,1029869,76733896,#beleza #dicas,17.62,Alto,Masculino,37
+TT00371,AU0046,addisonre,Lifestyle,Participando de uma trend,Reino Unido,2025-10-26,123,113987532,18769991,507437,420591,971580,48753159,#lifestyle #rotina,18.13,Alto,Masculino,38
+TT00372,AU0043,addisonre,Comédia,Bastidores de um vídeo,Estados Unidos,2025-08-29,111,69968804,12196387,182946,1054823,108761,13835676,#tiktok #trend,19.36,Alto,Feminino,29
+TT00373,AU0049,mrbeast,Comédia,Tutorial em poucos segundos,França,2026-06-21,49,8612070,1460356,9636,147165,167956,11326066,#beleza #dicas,20.73,Medio,Feminino,49
+TT00374,AU0011,zachking,Entretenimento,Vídeo de humor,Reino Unido,2026-06-24,131,41573026,2196873,232656,1084148,167700,62715646,#tecnologia #tech,8.86,Alto,Masculino,29
+TT00375,AU0041,fitnessbrasil,Beleza,Treino rápido para iniciantes,Coreia do Sul,2026-04-13,173,36612845,3863020,417664,204808,510489,71653293,#brasil #fyp,13.65,Alto,Feminino,38
+TT00376,AU0017,khaby.lame,Educação,Desafio que viralizou no TikTok,Brasil,2026-02-27,143,46646140,4406778,71362,406864,391306,18303937,#fitness #treino,11.31,Alto,Masculino,38
+TT00377,AU0020,zachking,Beleza,Tutorial em poucos segundos,França,2026-05-04,69,38538577,3561645,427932,49436,914404,978781,#tecnologia #tech,12.85,Alto,Feminino,14
+TT00378,AU0025,charlidamelio,Educação,Novo trend do TikTok,Canadá,2026-02-04,170,50199632,2314916,277439,1555862,351272,32163442,#tecnologia #tech,8.96,Alto,Feminino,39
+TT00379,AU0018,spencerx,Desafio,Novo trend do TikTok,Estados Unidos,2026-06-29,44,102664592,15091001,870609,2243154,772526,38878823,#tiktok #trend,18.48,Alto,Masculino,37
+TT00380,AU0002,khaby.lame,Entretenimento,Treino rápido para iniciantes,Brasil,2025-11-25,57,85532292,7709162,731765,1402223,1095489,13736915,#brasil #fyp,12.79,Alto,Masculino,24
+TT00381,AU0032,charlidamelio,Fitness,Participando de uma trend,Reino Unido,2025-01-16,137,36180759,1289173,21503,575497,114502,49858072,#receita #foodtok,5.53,Alto,Masculino,30
+TT00382,AU0018,spencerx,Comédia,Treino rápido para iniciantes,Canadá,2025-02-27,56,93591005,13625453,954701,1144473,2231158,25805612,#brasil #fyp,19.19,Alto,Masculino,33
+TT00383,AU0050,willsmith,Desafio,Desafio que viralizou no TikTok,Estados Unidos,2026-01-30,127,109739535,8555324,1284817,156809,1992033,12621138,#tecnologia #tech,10.92,Alto,Masculino,36
+TT00384,AU0011,zachking,Tecnologia,Treino rápido para iniciantes,Brasil,2025-11-27,74,89440064,15835284,745624,1527284,759402,64599542,#brasil #fyp,21.1,Alto,Feminino,31
+TT00385,AU0041,spencerx,Fitness,Desafio que viralizou no TikTok,Estados Unidos,2025-08-30,80,26722234,1990015,218240,74046,650915,78486684,#tiktok #trend,10.98,Alto,Masculino,31
+TT00386,AU0045,fitnessbrasil,Dança,Vídeo de humor,Brasil,2026-05-02,73,53174490,7721399,52266,69319,1053036,21175928,#receita #foodtok,16.73,Alto,Masculino,30
+TT00387,AU0004,bellapoarch,Dança,Treino rápido para iniciantes,Brasil,2025-03-03,42,12317708,1578894,143513,154049,236862,65487163,#desafio #viral,17.16,Medio,Feminino,14
+TT00388,AU0047,charlidamelio,Entretenimento,Participando de uma trend,Reino Unido,2026-03-26,44,42562063,7532484,391657,1183697,865397,33657879,#fyp #viral,23.43,Alto,Feminino,35
+TT00389,AU0012,emmaclair,Fitness,Vídeo de humor,Coreia do Sul,2026-08-04,129,65186149,8578059,439448,1304169,831919,36963423,#lifestyle #rotina,17.11,Alto,Feminino,29
+TT00390,AU0035,bellapoarch,Gastronomia,Desafio que viralizou no TikTok,Coreia do Sul,2025-09-27,139,115552523,12305864,263782,386153,935529,50884366,#fy #paravoce,12.02,Alto,Masculino,65
+TT00391,AU0043,emmaclair,Beleza,Bastidores de um vídeo,França,2025-03-06,137,118555177,2144518,1117286,3572327,797980,74026756,#fy #paravoce,6.44,Alto,Feminino,28
+TT00392,AU0003,khaby.lame,Dança,Desafio que viralizou no TikTok,Estados Unidos,2025-03-10,37,82330734,5081148,346058,1229473,272527,65155297,#desafio #viral,8.42,Alto,Feminino,31
+TT00393,AU0004,bellapoarch,Desafio,Receita fácil e rápida,Coreia do Sul,2025-09-20,28,13304482,269413,66108,303602,169736,1766387,#desafio #viral,6.08,Medio,Feminino,18
+TT00394,AU0024,emmaclair,Beleza,Vídeo de humor,Coreia do Sul,2025-03-04,24,88063189,8461279,125005,2752158,1781032,35687170,#tecnologia #tech,14.9,Alto,Feminino,23
+TT00395,AU0007,mrbeast,Desafio,Treino rápido para iniciantes,Canadá,2026-06-16,58,5506373,749745,7688,161730,34038,25930053,#tecnologia #tech,17.31,Medio,Feminino,17
+TT00396,AU0048,mrbeast,Lifestyle,Vídeo de humor,Coreia do Sul,2026-03-02,127,88214473,4944059,225593,1963746,1674369,57331034,#tiktok #trend,9.98,Alto,Feminino,20
+TT00397,AU0039,willsmith,Fitness,Vídeo de humor,França,2026-07-01,93,22438767,3270588,141453,442017,376539,49901348,#beleza #dicas,18.85,Alto,Masculino,29
+TT00398,AU0014,spencerx,Tecnologia,Tutorial em poucos segundos,Reino Unido,2026-07-13,125,102617089,12261175,433011,2985056,695471,60072404,#beleza #dicas,15.96,Alto,Masculino,22
+TT00399,AU0001,addisonre,Desafio,Bastidores de um vídeo,Reino Unido,2025-11-06,15,76256,10282,560,2624,1023,37048339,#tecnologia #tech,19.0,Baixo,Masculino,13
+TT00400,AU0010,khaby.lame,Educação,Vídeo de humor,França,2025-12-31,73,68671697,7333677,156517,2230550,130865,31281945,#brasil #fyp,14.35,Alto,Masculino,19
+TT00401,AU0047,bellapoarch,Gastronomia,Dica rápida para os seguidores,Canadá,2025-03-21,157,108910541,7030164,767192,2221400,677259,12809546,#lifestyle #rotina,9.82,Alto,Feminino,19
+TT00402,AU0050,bellapoarch,Fitness,Participando de uma trend,Canadá,2025-02-27,40,86251956,5568847,614740,2229340,248703,30439530,#lifestyle #rotina,10.04,Alto,Masculino,41
+TT00403,AU0035,fitnessbrasil,Dança,Vídeo de humor,França,2025-11-23,66,1584696,189515,1778,35647,21528,20571818,#fyp #viral,15.68,Baixo,Masculino,45
+TT00404,AU0006,charlidamelio,Beleza,Tutorial em poucos segundos,Canadá,2026-06-01,47,90463791,12276883,508821,1298880,1382573,17752113,#fitness #treino,17.1,Alto,Feminino,30
+TT00405,AU0033,spencerx,Dança,Dica rápida para os seguidores,Canadá,2026-02-13,153,11129017,1040741,75719,293146,81257,26599676,#receita #foodtok,13.4,Medio,Feminino,34
+TT00406,AU0016,mrbeast,Educação,Participando de uma trend,Reino Unido,2025-09-10,157,53108791,6512252,402775,407205,990798,12035190,#tiktok #trend,15.65,Alto,Masculino,38
+TT00407,AU0050,addisonre,Dança,Vídeo de humor,França,2025-01-25,123,90210430,7509209,242723,1210542,836124,19581424,#receita #foodtok,10.86,Alto,Feminino,13
+TT00408,AU0008,zachking,Desafio,Receita fácil e rápida,Estados Unidos,2025-03-29,83,6073362,1017258,50904,54287,28810,1853251,#fitness #treino,18.96,Medio,Masculino,19
+TT00409,AU0014,charlidamelio,Tecnologia,Treino rápido para iniciantes,Reino Unido,2026-07-05,150,93169618,13761742,551441,1059712,835269,64840696,#lifestyle #rotina,17.4,Alto,Feminino,46
+TT00410,AU0003,addisonre,Dança,Desafio que viralizou no TikTok,Reino Unido,2026-06-24,61,98018684,17518864,802282,2414437,983966,36420780,#fyp #viral,22.16,Alto,Feminino,28
+TT00411,AU0007,zachking,Educação,Participando de uma trend,Estados Unidos,2026-01-04,107,62455984,7684275,310369,80153,469134,68265127,#tiktok #trend,13.68,Alto,Feminino,22
+TT00412,AU0036,zachking,Entretenimento,Bastidores de um vídeo,França,2026-04-14,88,42389783,4025726,64103,902970,244716,44780958,#receita #foodtok,12.36,Alto,Masculino,31
+TT00413,AU0016,emmaclair,Educação,Desafio que viralizou no TikTok,Coreia do Sul,2025-11-06,75,52851229,7284192,442342,85865,503623,51975156,#fyp #viral,15.73,Alto,Masculino,20
+TT00414,AU0006,spencerx,Tecnologia,Receita fácil e rápida,Coreia do Sul,2025-05-21,68,74532698,12790124,330220,646184,777250,56023532,#desafio #viral,19.51,Alto,Feminino,42
+TT00415,AU0009,charlidamelio,Dança,Receita fácil e rápida,França,2026-07-10,61,76943142,3093392,843447,2615933,685011,18546762,#brasil #fyp,9.41,Alto,Masculino,16
+TT00416,AU0042,fitnessbrasil,Dança,Vídeo de humor,Brasil,2025-05-29,152,92463212,12144812,190049,1739176,2302006,71542887,#tiktok #trend,17.71,Alto,Masculino,23
+TT00417,AU0027,addisonre,Gastronomia,Tutorial em poucos segundos,Estados Unidos,2026-02-28,58,24764210,1669196,219445,765404,479693,14340619,#fy #paravoce,12.65,Alto,Masculino,18
+TT00418,AU0039,charlidamelio,Desafio,Desafio que viralizou no TikTok,Reino Unido,2025-08-25,30,24846255,480096,188704,857754,385974,63978467,#fy #paravoce,7.7,Alto,Feminino,26
+TT00419,AU0032,willsmith,Dança,Dica rápida para os seguidores,Estados Unidos,2026-02-01,67,67470864,10431859,537745,1142818,365384,4335777,#beleza #dicas,18.49,Alto,Feminino,29
+TT00420,AU0049,charlidamelio,Comédia,Dica rápida para os seguidores,Canadá,2025-07-27,167,102664667,17951377,1173177,3332987,651027,65769022,#fitness #treino,22.51,Alto,Masculino,22
+TT00421,AU0047,bellapoarch,Beleza,Receita fácil e rápida,Coreia do Sul,2026-01-25,156,116386558,10532391,600085,1092945,233218,79709265,#tecnologia #tech,10.7,Alto,Feminino,33
+TT00422,AU0003,charlidamelio,Tecnologia,Treino rápido para iniciantes,Canadá,2026-04-13,20,70545248,8523980,66516,1759386,255627,74863354,#beleza #dicas,15.03,Alto,Masculino,28
+TT00423,AU0050,addisonre,Gastronomia,Dica rápida para os seguidores,Canadá,2025-11-08,85,69323350,9792018,186013,2338147,800635,7331129,#tecnologia #tech,18.92,Alto,Feminino,37
+TT00424,AU0050,fitnessbrasil,Tecnologia,Dica rápida para os seguidores,Canadá,2025-07-04,115,19141078,1751227,29478,439621,249136,43424191,#receita #foodtok,12.9,Medio,Feminino,23
+TT00425,AU0006,addisonre,Fitness,Dica rápida para os seguidores,Coreia do Sul,2026-04-11,41,3393647,151068,29508,71506,19840,12249481,#tiktok #trend,8.01,Baixo,Feminino,20
+TT00426,AU0040,khaby.lame,Beleza,Treino rápido para iniciantes,Canadá,2026-06-08,21,94838144,8454890,618714,1265147,969065,22945793,#fitness #treino,11.92,Alto,Feminino,22
+TT00427,AU0027,addisonre,Educação,Dica de beleza e estilo,Reino Unido,2025-02-22,170,75948994,12058071,179575,2303598,339535,24262610,#tiktok #trend,19.59,Alto,Feminino,53
+TT00428,AU0032,emmaclair,Entretenimento,Receita fácil e rápida,Canadá,2026-05-25,70,17709164,3072036,164731,19836,22897,29118314,#lifestyle #rotina,18.52,Medio,Feminino,35
+TT00429,AU0036,addisonre,Lifestyle,Treino rápido para iniciantes,Estados Unidos,2025-09-08,22,88562648,8279941,125152,1323581,1364081,24818803,#fy #paravoce,12.53,Alto,Masculino,28
+TT00430,AU0022,mrbeast,Entretenimento,Novo trend do TikTok,Canadá,2025-11-02,55,7440556,913630,76779,16730,126548,21664047,#brasil #fyp,15.24,Medio,Masculino,19
+TT00431,AU0048,fitnessbrasil,Fitness,Desafio que viralizou no TikTok,Brasil,2026-04-12,86,82069078,10180879,581151,2034885,1189365,43338415,#fitness #treino,17.04,Alto,Feminino,34
+TT00432,AU0009,mrbeast,Educação,Vídeo de humor,França,2026-04-28,115,50910378,7654053,519187,1363737,130239,70426822,#desafio #viral,18.99,Alto,Masculino,18
+TT00433,AU0006,willsmith,Lifestyle,Tutorial em poucos segundos,Canadá,2026-06-26,165,93442654,4624795,660706,278298,2289756,42488375,#brasil #fyp,8.4,Alto,Feminino,27
+TT00434,AU0034,willsmith,Gastronomia,Dica rápida para os seguidores,França,2026-05-24,69,70566816,7755190,787646,1565898,1110930,38998647,#desafio #viral,15.9,Alto,Feminino,18
+TT00435,AU0040,spencerx,Beleza,Desafio que viralizou no TikTok,Reino Unido,2025-08-01,99,262187,9046,2533,4406,4902,75227695,#desafio #viral,7.97,Baixo,Feminino,13
+TT00436,AU0033,emmaclair,Fitness,Desafio que viralizou no TikTok,Brasil,2025-11-04,95,1566293,189054,5365,38312,4116,45826776,#beleza #dicas,15.12,Baixo,Masculino,36
+TT00437,AU0044,willsmith,Gastronomia,Desafio que viralizou no TikTok,Coreia do Sul,2025-12-13,44,97276871,10590732,979431,3272767,550234,64635235,#fy #paravoce,15.82,Alto,Masculino,48
+TT00438,AU0048,zachking,Tecnologia,Tutorial em poucos segundos,França,2026-02-28,90,84231424,7665224,909967,2562120,1019139,74524623,#tecnologia #tech,14.43,Alto,Masculino,36
+TT00439,AU0005,khaby.lame,Educação,Desafio que viralizou no TikTok,Reino Unido,2025-12-29,106,2562345,126485,24841,62282,57172,71718931,#fy #paravoce,10.57,Baixo,Masculino,41
+TT00440,AU0046,bellapoarch,Entretenimento,Tutorial em poucos segundos,Canadá,2025-11-12,32,76685858,8814172,141386,565242,1516559,66723516,#desafio #viral,14.39,Alto,Feminino,18
+TT00441,AU0024,zachking,Desafio,Novo trend do TikTok,Canadá,2025-04-25,139,49923103,4471339,149050,1663672,412147,3356688,#receita #foodtok,13.41,Alto,Feminino,46
+TT00442,AU0050,bellapoarch,Dança,Novo trend do TikTok,França,2025-11-14,43,67166153,2715046,407022,843871,1475848,27549747,#fyp #viral,8.1,Alto,Masculino,29
+TT00443,AU0044,fitnessbrasil,Comédia,Vídeo de humor,Canadá,2025-02-15,21,61705384,4871766,113051,1876062,522246,13848227,#tecnologia #tech,11.97,Alto,Feminino,24
+TT00444,AU0021,charlidamelio,Desafio,Tutorial em poucos segundos,Reino Unido,2025-08-03,146,102884963,12730204,734798,1195970,873640,42845559,#receita #foodtok,15.1,Alto,Masculino,15
+TT00445,AU0033,mrbeast,Desafio,Treino rápido para iniciantes,Reino Unido,2026-07-28,150,90126744,3101476,328676,547691,123127,42756321,#brasil #fyp,4.55,Alto,Feminino,20
+TT00446,AU0040,bellapoarch,Tecnologia,Dica de beleza e estilo,Brasil,2025-11-15,43,19049435,3250611,135288,539786,97354,3901332,#receita #foodtok,21.12,Medio,Feminino,30
+TT00447,AU0040,bellapoarch,Educação,Vídeo de humor,Estados Unidos,2026-04-02,146,90713530,2115915,135197,1273834,943965,10552212,#receita #foodtok,4.93,Alto,Masculino,44
+TT00448,AU0020,willsmith,Gastronomia,Bastidores de um vídeo,Estados Unidos,2026-04-12,46,76257390,2802170,844659,2183777,933285,34645255,#fitness #treino,8.87,Alto,Feminino,54
+TT00449,AU0030,willsmith,Entretenimento,Novo trend do TikTok,Canadá,2025-11-29,38,52673673,2383655,226432,1695407,1140858,47179588,#receita #foodtok,10.34,Alto,Masculino,35
+TT00450,AU0007,spencerx,Comédia,Vídeo de humor,França,2026-06-05,176,61956810,9575513,279368,656540,916482,9529256,#brasil #fyp,18.44,Alto,Feminino,40
+TT00451,AU0031,spencerx,Comédia,Vídeo de humor,Estados Unidos,2025-06-12,161,71553899,6515758,232093,1508229,490042,57877771,#beleza #dicas,12.22,Alto,Feminino,17
+TT00452,AU0048,fitnessbrasil,Gastronomia,Novo trend do TikTok,França,2025-03-21,162,76179797,11039131,244977,1486566,1287643,62140518,#fitness #treino,18.45,Alto,Feminino,46
+TT00453,AU0044,fitnessbrasil,Beleza,Vídeo de humor,Canadá,2025-04-22,175,74552610,2319547,301372,1203081,800624,8262004,#tiktok #trend,6.2,Alto,Feminino,21
+TT00454,AU0049,khaby.lame,Dança,Dica de beleza e estilo,França,2025-01-01,84,29257357,4383060,318537,911860,475934,52352586,#lifestyle #rotina,20.81,Alto,Feminino,24
+TT00455,AU0028,bellapoarch,Comédia,Receita fácil e rápida,Brasil,2025-11-08,166,77618641,6891088,822011,620366,635979,68517933,#beleza #dicas,11.56,Alto,Masculino,15
+TT00456,AU0001,emmaclair,Fitness,Novo trend do TikTok,Reino Unido,2025-02-24,17,113817878,4102757,540186,1252255,1613168,31583535,#beleza #dicas,6.6,Alto,Masculino,27
+TT00457,AU0035,charlidamelio,Dança,Dica de beleza e estilo,Estados Unidos,2026-03-22,58,94300625,10597225,819038,2098876,1013239,74557422,#beleza #dicas,15.41,Alto,Masculino,33
+TT00458,AU0009,zachking,Comédia,Desafio que viralizou no TikTok,Estados Unidos,2025-05-09,134,113239523,18972097,257515,3347216,2824074,58627594,#fy #paravoce,22.43,Alto,Feminino,49
+TT00459,AU0040,khaby.lame,Gastronomia,Treino rápido para iniciantes,Canadá,2026-03-12,151,11413335,429613,118604,324161,256183,60414120,#beleza #dicas,9.89,Medio,Masculino,62
+TT00460,AU0046,emmaclair,Educação,Participando de uma trend,França,2025-08-31,157,47738529,2494206,27948,737189,618489,49263883,#fyp #viral,8.12,Alto,Feminino,23
+TT00461,AU0010,emmaclair,Educação,Dica de beleza e estilo,França,2025-03-23,30,5132158,558094,9245,128129,64443,70253759,#lifestyle #rotina,14.81,Medio,Masculino,33
+TT00462,AU0038,addisonre,Lifestyle,Desafio que viralizou no TikTok,Reino Unido,2026-07-07,146,11921068,661180,96953,267539,203244,1457323,#receita #foodtok,10.31,Medio,Masculino,30
+TT00463,AU0019,khaby.lame,Entretenimento,Receita fácil e rápida,Coreia do Sul,2025-10-29,87,60989515,6073910,545177,1034010,677251,75669375,#brasil #fyp,13.66,Alto,Feminino,46
+TT00464,AU0048,fitnessbrasil,Entretenimento,Tutorial em poucos segundos,Canadá,2025-10-26,31,8293352,985536,58782,171314,138927,17031671,#tecnologia #tech,16.33,Medio,Feminino,30
+TT00465,AU0001,mrbeast,Lifestyle,Dica rápida para os seguidores,França,2025-09-21,48,10366277,1611836,20983,108295,80269,59958773,#fitness #treino,17.57,Medio,Feminino,22
+TT00466,AU0003,bellapoarch,Comédia,Dica rápida para os seguidores,França,2026-06-25,49,108476542,4766556,348887,2994597,579201,66575050,#beleza #dicas,8.01,Alto,Masculino,28
+TT00467,AU0047,bellapoarch,Entretenimento,Tutorial em poucos segundos,Brasil,2026-08-15,23,103447014,8091889,915401,2427144,518765,22504944,#receita #foodtok,11.55,Alto,Masculino,22
+TT00468,AU0025,spencerx,Gastronomia,Tutorial em poucos segundos,Estados Unidos,2025-08-28,145,53568621,5012858,610944,921008,1239525,58359054,#fyp #viral,14.53,Alto,Masculino,45
+TT00469,AU0007,emmaclair,Fitness,Participando de uma trend,França,2025-02-12,176,38811035,6519932,322235,631063,934659,36596490,#fitness #treino,21.66,Alto,Feminino,19
+TT00470,AU0047,fitnessbrasil,Desafio,Treino rápido para iniciantes,Reino Unido,2025-09-05,56,36332557,2146145,291566,157734,377411,42056364,#tecnologia #tech,8.18,Alto,Masculino,22
+TT00471,AU0044,willsmith,Fitness,Bastidores de um vídeo,Coreia do Sul,2025-04-17,82,1469753,185206,937,43030,4915,33818923,#desafio #viral,15.93,Baixo,Masculino,21
+TT00472,AU0039,mrbeast,Comédia,Novo trend do TikTok,França,2025-08-11,43,4619008,87348,52161,19058,77407,50470287,#lifestyle #rotina,5.11,Baixo,Masculino,19
+TT00473,AU0043,mrbeast,Gastronomia,Tutorial em poucos segundos,Canadá,2026-04-24,180,107853687,18829345,916758,3393514,763610,43416567,#brasil #fyp,22.16,Alto,Feminino,38
+TT00474,AU0017,addisonre,Dança,Dica de beleza e estilo,Brasil,2025-03-03,135,21788712,3133667,26526,227207,224993,26943352,#lifestyle #rotina,16.58,Alto,Feminino,24
+TT00475,AU0040,mrbeast,Gastronomia,Tutorial em poucos segundos,Brasil,2025-08-12,18,52748503,2344299,113648,935228,1025904,9797090,#tiktok #trend,8.38,Alto,Masculino,47
+TT00476,AU0003,spencerx,Educação,Dica rápida para os seguidores,Coreia do Sul,2025-01-01,94,76734568,10362615,54926,2104527,993316,52533472,#lifestyle #rotina,17.61,Alto,Masculino,65
+TT00477,AU0035,charlidamelio,Entretenimento,Participando de uma trend,Coreia do Sul,2025-03-13,133,547109,54731,3360,18031,6272,16277678,#lifestyle #rotina,15.06,Baixo,Masculino,19
+TT00478,AU0024,emmaclair,Fitness,Novo trend do TikTok,Canadá,2025-04-03,84,71897296,12170915,599703,949276,763172,27272368,#fy #paravoce,20.14,Alto,Feminino,23
+TT00479,AU0041,bellapoarch,Gastronomia,Novo trend do TikTok,Coreia do Sul,2025-04-20,122,74470438,1600343,200812,1047170,1318214,25439494,#fy #paravoce,5.59,Alto,Masculino,23
+TT00480,AU0035,addisonre,Gastronomia,Treino rápido para iniciantes,Canadá,2025-03-06,14,4841343,226866,35433,123314,61686,4981784,#fitness #treino,9.24,Baixo,Feminino,27
+TT00481,AU0030,emmaclair,Dança,Receita fácil e rápida,Estados Unidos,2026-06-20,28,7573501,535625,39104,193233,46048,4959636,#fy #paravoce,10.75,Medio,Masculino,31
+TT00482,AU0001,khaby.lame,Entretenimento,Tutorial em poucos segundos,Brasil,2025-05-14,126,65668337,8069469,726109,1117771,137853,22919541,#lifestyle #rotina,15.31,Alto,Feminino,13
+TT00483,AU0005,charlidamelio,Beleza,Vídeo de humor,Coreia do Sul,2025-08-14,112,8634245,1294593,53680,39849,174240,43528077,#tiktok #trend,18.09,Medio,Feminino,42
+TT00484,AU0038,khaby.lame,Fitness,Novo trend do TikTok,Brasil,2025-02-16,80,91866788,10108521,929591,520811,1840499,18966482,#beleza #dicas,14.59,Alto,Feminino,31
+TT00485,AU0009,mrbeast,Lifestyle,Participando de uma trend,Estados Unidos,2025-02-11,14,22605403,2936188,125338,447945,524811,65369668,#tiktok #trend,17.85,Alto,Masculino,29
+TT00486,AU0027,willsmith,Dança,Bastidores de um vídeo,Estados Unidos,2025-10-18,173,902226,14608,7783,29312,13758,36376259,#tecnologia #tech,7.26,Baixo,Feminino,17
+TT00487,AU0046,willsmith,Lifestyle,Novo trend do TikTok,Coreia do Sul,2025-07-04,87,60504232,5020953,455063,1990289,115134,46698115,#beleza #dicas,12.53,Alto,Masculino,14
+TT00488,AU0049,emmaclair,Tecnologia,Bastidores de um vídeo,Canadá,2026-01-06,170,663380,70996,7858,4991,16214,27941877,#brasil #fyp,15.08,Baixo,Masculino,34
+TT00489,AU0032,khaby.lame,Dança,Desafio que viralizou no TikTok,Brasil,2026-05-01,175,7172803,336860,60110,201447,173910,48891166,#brasil #fyp,10.77,Medio,Feminino,28
+TT00490,AU0007,zachking,Tecnologia,Dica rápida para os seguidores,Estados Unidos,2025-02-14,17,28180660,2443849,275022,348482,541119,65113838,#tecnologia #tech,12.8,Alto,Masculino,44
+TT00491,AU0013,bellapoarch,Desafio,Novo trend do TikTok,Reino Unido,2026-03-06,68,15627992,417139,87758,140654,233080,13171945,#desafio #viral,5.62,Medio,Masculino,26
+TT00492,AU0032,zachking,Beleza,Dica rápida para os seguidores,Estados Unidos,2026-08-23,166,99068842,8230466,1065059,772588,273896,61077841,#fy #paravoce,10.44,Alto,Feminino,23
+TT00493,AU0013,bellapoarch,Dança,Desafio que viralizou no TikTok,Coreia do Sul,2025-10-04,155,52036593,3987305,142204,861890,499872,8016318,#brasil #fyp,10.55,Alto,Masculino,38
+TT00494,AU0019,fitnessbrasil,Dança,Receita fácil e rápida,Estados Unidos,2025-08-14,157,18370921,612358,97541,309148,353606,74199605,#desafio #viral,7.47,Medio,Masculino,27
+TT00495,AU0030,addisonre,Entretenimento,Participando de uma trend,Coreia do Sul,2026-04-30,73,11656388,966662,121404,218442,72206,33273373,#fitness #treino,11.83,Medio,Feminino,32
+TT00496,AU0001,spencerx,Entretenimento,Desafio que viralizou no TikTok,Canadá,2026-08-11,139,58333876,6452430,426150,1827131,266893,4522474,#beleza #dicas,15.38,Alto,Feminino,43
+TT00497,AU0016,mrbeast,Tecnologia,Desafio que viralizou no TikTok,Coreia do Sul,2026-05-23,114,71335951,5711357,607177,2035240,239116,29270335,#fy #paravoce,12.05,Alto,Masculino,47
+TT00498,AU0011,willsmith,Lifestyle,Receita fácil e rápida,Brasil,2025-11-09,126,48154396,3072511,74320,1108502,602642,62254899,#fy #paravoce,10.09,Alto,Masculino,18
+TT00499,AU0041,mrbeast,Beleza,Vídeo de humor,França,2025-01-02,18,117383008,15379199,1235203,855505,1883229,39817633,#beleza #dicas,16.49,Alto,Feminino,18
+TT00500,AU0040,bellapoarch,Entretenimento,Treino rápido para iniciantes,Coreia do Sul,2025-03-24,103,101100918,6017046,681218,3353239,2028841,6930612,#tiktok #trend,11.95,Alto,Feminino,27
