@@ -98,7 +98,8 @@ O dashboard **TIK TOK ANALYTICS** tem capa e quatro páginas de análise.
 | 03 Pagamentos & Pedidos | Valor e quantidade de pedidos por mês e distribuição por status |
 | 04 Relatório Geral | Visão consolidada com hashtags, categorias de produto e atalhos para Canva e Google Docs |
 
-![Capa de Pedidos](imagens%20tik%20tok/dashboard_0_Capa_pedidos.PNG)
+![Capa de Pedidos](imagens%20tik%20tok/dashboard_00_Capa_pedidos.PNG)
+
 
 ![Visão Geral](imagens%20tik%20tok/dashboard_01_visao_geral.png.png)
 ![Conteúdo de Engajamento](imagens%20tik%20tok/dashboard_02_conteudo_engajamento.png.png)
