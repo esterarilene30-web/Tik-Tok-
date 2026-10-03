@@ -90,7 +90,8 @@ O dashboard **TIK TOK ANALYTICS** tem capa e quatro páginas de análise.
 | 03 Pagamentos & Pedidos | Valor e quantidade de pedidos por mês e distribuição por status |
 | 04 Relatório Geral | Visão consolidada com hashtags, categorias de produto e atalhos para Canva e Google Docs |
 
-![Capa do dashboard](imagens/dashboard_00_capa.png)
+!![Capa de Pedidos](imagens/imagens%20tik%20tok/dashboard_00_Capa_pedidos.png.png)
+
 ![Visão Geral](imagens/dashboard_01_visao_geral.png)
 ![Conteúdo e Engajamento](imagens/dashboard_02_conteudo_engajamento.png)
 ![Pagamentos e Pedidos](imagens/dashboard_03_pagamentos_pedidos.png)
@@ -106,7 +107,7 @@ O dashboard **TIK TOK ANALYTICS** tem capa e quatro páginas de análise.
 
 O dashboard tem um atalho para um plano de marketing criado no Canva, que liga a análise a ações de conteúdo:
 
-[Acessar o plano de marketing no Canva](COLE-AQUI-O-LINK-DO-CANVA)
+[Acessar o plano de marketing no Canva](https://canva.link/yoxm0ihcdxpg2jh)
 
 ## O que aprendi
 
@@ -136,4 +137,4 @@ O dashboard tem um atalho para um plano de marketing criado no Canva, que liga a
 
 ## Autor
 
-**[Seu nome]**: [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+Ester Arilene: [LinkedIn](https://canva.link/yoxm0ihcdxpg2jh)
